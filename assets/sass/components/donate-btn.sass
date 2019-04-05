@@ -1,0 +1,28 @@
+.c__donate-btn
+  @include media-breakpoint-up(md)
+    position: absolute
+    display: block
+    top: -2em
+    right: 10em
+    left: -15em
+    width: 8em
+    height: 9em
+    padding: 0 0.4em
+    z-index: 12
+    transition: transform 200ms ease
+    transform: rotate3d(0, 0, 0, 0 deg)
+    background-image: url(/files/icons/wj.svg)
+    background-repeat: no-repeat
+    background-position: center center
+    text-align: center
+    color: white !important
+    text-decoration: none
+    text-transform: uppercase
+    font-weight: 100
+    font-size: 1rem
+    line-height: 6.5
+    border: none !important
+    text-decoration: none !important
+    &:hover,
+    &:active
+      color: #FFEC00

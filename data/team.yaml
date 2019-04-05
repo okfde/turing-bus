@@ -1,0 +1,107 @@
+
+- name: Bela Seeger
+  img: belaseeger
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Projektleitung Turing-Bus (OKF DE)
+  position_en: Project lead Turing-Bus
+  bio: "Bela arbeitet bei der Open Knowledge Foundation Deutschland als Projektleiter der Bildungsprojekte „DatenmachenSchule“ und „Turing-Bus“. Als Techniksoziologe interessiert er sich für von der Gesellschaft ausgehende Transformationsprozesse im Bereich der Open Knowledge, Open Source, Open Hardware und Open Education Bewegung, bei denen zivilgesellschaftliche Akteure zu aktiven Mitgestalter*innen werden."
+  bio_en: "Bela works at the Open Knowledge Foundation Germany as project lead of the educational projects \"DatenmachenSchule\" and \"Turing-Bus\". As a sociologist of technology he is interested in social transformation processes in the fields of Open Knowledge, Open Source, Open Hardware and Open Education, in which civil society actors become active co-creators."
+  mail: bela.seeger@okfn.de
+  twitter: bela_data
+  website: https://okfn.de
+
+- name: Andrea Knaut
+  img: andreaknaut
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Projektleitung Turing-Bus (GI)
+  position_en: Project lead Turing-Bus
+  bio: "Bela arbeitet bei der Open Knowledge Foundation Deutschland als Projektleiter der Bildungsprojekte „DatenmachenSchule“ und „Turing-Bus“. Als Techniksoziologe interessiert er sich für von der Gesellschaft ausgehende Transformationsprozesse im Bereich der Open Knowledge, Open Source, Open Hardware und Open Education Bewegung, bei denen zivilgesellschaftliche Akteure zu aktiven Mitgestalter*innen werden."
+  bio_en: "Bela works at the Open Knowledge Foundation Germany as project lead of the educational projects \"DatenmachenSchule\" and \"Turing-Bus\". As a sociologist of technology he is interested in social transformation processes in the fields of Open Knowledge, Open Source, Open Hardware and Open Education, in which civil society actors become active co-creators."
+  mail: andrea.knaut@gi.de
+  twitter: kosmo_k
+  website: https://gi.de
+
+- name: Stefan Ullrich
+  img: stefanullrich
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Initiator (Weizenbaum Institut für die vernetzte Gesellschaft)
+  position_en: Project lead Turing-Bus
+  bio: "Bela arbeitet bei der Open Knowledge Foundation Deutschland als Projektleiter der Bildungsprojekte „DatenmachenSchule“ und „Turing-Bus“. Als Techniksoziologe interessiert er sich für von der Gesellschaft ausgehende Transformationsprozesse im Bereich der Open Knowledge, Open Source, Open Hardware und Open Education Bewegung, bei denen zivilgesellschaftliche Akteure zu aktiven Mitgestalter*innen werden."
+  bio_en: "Bela works at the Open Knowledge Foundation Germany as project lead of the educational projects \"DatenmachenSchule\" and \"Turing-Bus\". As a sociologist of technology he is interested in social transformation processes in the fields of Open Knowledge, Open Source, Open Hardware and Open Education, in which civil society actors become active co-creators."
+  mail: stefan.ullrich@gi.de
+  twitter:
+  website: https://vernetzung-und-gesellschaft.de/
+
+- name: Kathinka Richter
+  img: kathinka
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Projektleitung Turing-Bus
+  position_en: Project lead Turing-Bus
+  bio: "Bela arbeitet bei der Open Knowledge Foundation Deutschland als Projektleiter der Bildungsprojekte „DatenmachenSchule“ und „Turing-Bus“. Als Techniksoziologe interessiert er sich für von der Gesellschaft ausgehende Transformationsprozesse im Bereich der Open Knowledge, Open Source, Open Hardware und Open Education Bewegung, bei denen zivilgesellschaftliche Akteure zu aktiven Mitgestalter*innen werden."
+  bio_en: "Bela works at the Open Knowledge Foundation Germany as project lead of the educational projects \"DatenmachenSchule\" and \"Turing-Bus\". As a sociologist of technology he is interested in social transformation processes in the fields of Open Knowledge, Open Source, Open Hardware and Open Education, in which civil society actors become active co-creators."
+  mail: kathinka.richter@gi.de
+  twitter:
+  website:
+
+
+- name: Nikolas Becker
+  img: nikolasbecker
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Projektassistenz (GI)
+  position_en: Project management Edulabs, Demokratielabore
+  bio: "Maximilian Voigt unterstützt das Projekt [edulabs](https://okfn.de/projekte/edulabs/). Zudem engagiert er sich in offenen Werkstätten, beschäftigt sich mit Physical Computing und setzt sich für freie Bildung sowie Open Hardware ein. Maximilian mitbegründete den FabLab Cottbus e.V. und studierte Technikjournalismus, Public Relations sowie Kultur und Technik. Seine Masterarbeit schrieb er über das Bildungspotenzial offener Werkstätten."
+  bio_en: "Maximilian Voigt supports the project edulabs as an assistent. Further more he campaigns for fabrication laboratories, is engaged in physical computing and supports free education. Before his work at the OKF he co founded the FabLab Cottbus e.V., studied technical journalism, public relations and culture and technology. His master thesis was about the educational potential of open workshops."
+  mail: nikolas.becker@gi.de
+  twitter: redmonkey_
+  website:
+  github:
+
+
+- name: Maximilian Voigt
+  img: maximilianvoigt
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Projektassistenz (OKF DE)
+  position_en: Project management Edulabs, Demokratielabore
+  bio: "Maximilian Voigt unterstützt das Projekt [edulabs](https://okfn.de/projekte/edulabs/). Zudem engagiert er sich in offenen Werkstätten, beschäftigt sich mit Physical Computing und setzt sich für freie Bildung sowie Open Hardware ein. Maximilian mitbegründete den FabLab Cottbus e.V. und studierte Technikjournalismus, Public Relations sowie Kultur und Technik. Seine Masterarbeit schrieb er über das Bildungspotenzial offener Werkstätten."
+  bio_en: "Maximilian Voigt supports the project edulabs as an assistent. Further more he campaigns for fabrication laboratories, is engaged in physical computing and supports free education. Before his work at the OKF he co founded the FabLab Cottbus e.V., studied technical journalism, public relations and culture and technology. His master thesis was about the educational potential of open workshops."
+  mail: maximilian.voigt@okfn.de
+  twitter: ma__vo
+  website:
+  github:
+
+
+- name: Till Kreutzer
+  title: Dr.
+  img:
+  staff: 0
+  board: 0
+  advisory: 1
+  position:
+  bio: ""
+  mail:
+  twitter:
+  website:
+
+- name: OKF
+  title:
+  img: okf
+  staff: 0
+  board: 0
+  advisory: 0
+  position:
+  bio: ""
+  mail:
+  twitter:
+  website:

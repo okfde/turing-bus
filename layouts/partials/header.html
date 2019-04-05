@@ -1,0 +1,31 @@
+<header class="l__topbar">
+  <div>
+    <div class="l__inner">
+      <a href="#content" class="show-on-focus skip">Skip to content</a>
+      {{ with .Site.GetPage "/"}}
+        <a href="{{.Permalink}}" title="Startseite" class="c__logo l__logo">
+          {{ readFile "static/files/logos/turing-2019.svg" | safeHTML }}
+        </a>
+      {{end}}
+      <div class="l__topbar__toggle">
+        <button type="button" id="js-topnav-toggle" tabindex="">
+          <span class="l__topbar__toggle--burger">{{ readFile "static/files/icons/menu.svg" | safeHTML }}</span>
+          <span class="l__topbar__toggle--close">{{ readFile "static/files/icons/close.svg" | safeHTML }}</span>
+        </button>
+      </div>
+      <ul class="l__nav c__nav-list c__nav-list--top" id="js-topnav-menu">
+        {{ with .Site.GetPage "/mitmachen" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        {{ with .Site.GetPage "/module" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        {{ with .Site.GetPage "/wissenschaftsjahr" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        <!--{{ with .Site.GetPage "/projekte" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        {{ with .Site.GetPage "/themen" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}-->
+        <!--{{ with .Site.GetPage "/team" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}-->
+        <li><a href="/blog">Blog</a></li>
+
+
+
+        <!--{{ with .Site.GetPage "/wissenschaftsjahr" }}<li><a class="c__donate-btn" href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}-->
+      </ul>
+    </div>
+  </div>
+</header>

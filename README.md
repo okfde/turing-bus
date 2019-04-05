@@ -1,2 +1,1 @@
-# turing-bus-relaunch
-New website for Turing-Bus
+# Webseite des Projektes Turing-Bus.

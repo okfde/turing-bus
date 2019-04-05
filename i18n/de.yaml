@@ -1,0 +1,78 @@
+- id: home_about_work
+  translation: "Über unsere Arbeit"
+- id: home_all_projects
+  translation: "Alle Projekte"
+- id: home_our_projects
+  translation: "Unsere Projekte"
+- id: home_donate
+  translation: "Jetzt spenden"
+- id: home_all_posts
+  translation: "Alle Posts"
+- id: home_blog_news
+  translation: "Neues aus dem [B]logbuch"
+- id: footer_contact
+  translation: "Kontakt"
+- id: footer_signup
+  translation: "anmelden"
+- id: search
+  translation: "Suchen"
+- id: search_open
+  translation: "Suche öffnen"
+- id: search_close
+  translation: "Suche schließen"
+- id: search_field_label
+  translation: "Suchfeld"
+- id: search_field_placeholder
+  translation: "Wonach suchst Du?"
+- id: projects
+  translation: "Projekte"
+- id: projects_all
+  translation: "Alle"
+- id: projects_other
+  translation: "Weitere Projekte"
+- id: projects_archive
+  translation: "Abgeschlossene Projekte"
+- id: project_year
+  translation: "Jahr"
+- id: project_person
+  translation: "Personen"
+- id: project_financing
+  translation: "Finanzierung"
+- id: project_donate
+  translation: "Jetzt spenden"
+- id: project_more
+  translation: "Mehr erfahren?"
+- id: topics_more
+  translation: "Mehr zu"
+- id: blog_search
+  translation: "Blog durchsuchen"
+- id: job_current
+  translation: "Aktuelle Ausschreibungen"
+- id: donation_owner
+  translation: "Kontoinhaber"
+- id: topics_projects
+  translation: "Verwandte Projekte"
+- id: itz_text
+  translation: "Der Turing-Bus ist ein Verbundprojekt der Open Knowledge Foundation Deutschland e.V. und der Gesellschaft für Informatik e.V. im Wissenschaftsjahr 2019 - Künstliche Intelligenz. Das Projekt wird zu 100% durch das Bundesministerium für Bildung und Forschung gefördert."
+- id: itz_link
+  translation: "→ Zur Webseite des Wissenschaftsjahres"
+- id: itz_alt
+  translation: "Logo Wissenschaftsjahr"
+- id: newsletter_text
+  translation: "Unser Newsletter informiert über Stationen, Veranstaltungen und Neuigkeiten!"
+- id: phineo_alt
+  translation: "Logo Phineo Analyse- und Beratungshaus"
+- id: phineo_text
+  translation: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod "
+- id: phineo_link
+  translation: "Mehr ueber Phineo"
+- id: mehr_erfahren
+  translation: "Want to know more?"
+- id: blog_search_js
+  translation: "Für die Blogsuche wird JavaScript benötigt."
+- id: blog_search_label
+  translation: "Suche nach"
+- id: share
+  translation: "Teilen"
+- id: recommended_post
+  translation: "Von uns für dich empfohlen"
