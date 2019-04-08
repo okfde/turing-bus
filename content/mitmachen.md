@@ -33,23 +33,23 @@ Grundsätzlich gibt es drei Möglichkeiten, beim Turing-Bus dabei zu sein:
 
 Auf unseren Stationen kooperieren wir mit Vertreter*innen von regionalen und bundesweiten Bildungs- und Beteiligungsinitiativen aus dem digitalen Themenraum, um den Schüler*innen Aktionspotentiale und Orte in ihrer Umgebung aufzuzeigen, an denen sie auch nach unserer Tour mehr über digitale Mündigkeit, digitales Ehrenamt sowie den kritischen Umgang mit Medien erlernen und erfahren können.
 
-Diese sogenannten **Infonaut*innen** kommen aus [Hackspaces](https://de.wikipedia.org/wiki/Hackerspace), [Offenen Werkstätten](https://www.offene-werkstaetten.org/seite/offene-werkstaetten) und [OK-Labs](https://codefor.de/ueber/), aber auch aus Politik, Zivilgesellschaft und Wirtschaft. Sie sind Expert*innen verschiedener Disziplinen und Aspekte der Digitalisierung und begleiten uns auf der Tour, um Schüler*innen  im ländlichen Raum Diskussions- und Hands-on-Formate ([Module](/module)) anzubieten. Mit ihrer Hilfe und unseren eigenen Workshopformaten sind im letzten Jahr bereits einige spannende Stationen (z.B. [Landsberg](/blog/2018/06/mit-chaos-macht-schule-und-code-for-germany-in-riesa/) oder [Uelzen](blog/2018/06/mit-den-demokratielaboren-in-uelzen/)) entstanden!
+Diese sogenannten **Infonaut*innen** kommen aus [Hackspaces](https://de.wikipedia.org/wiki/Hackerspace), [Offenen Werkstätten](https://www.offene-werkstaetten.org/seite/offene-werkstaetten) und [OK-Labs](https://codefor.de/ueber/), aber auch aus Politik, Zivilgesellschaft und Wirtschaft. Sie sind Expert*innen verschiedener Disziplinen und Aspekte der Digitalisierung und begleiten uns auf der Tour, um Schüler*innen  im ländlichen Raum Diskussions- und Hands-on-Formate ([Module](/module)) anzubieten. Mit ihrer Hilfe und unseren eigenen Workshopformaten sind im letzten Jahr bereits einige spannende Stationen (z.B. [Landsberg](/blog/2018/06/mit-chaos-macht-schule-und-code-for-germany-in-riesa/) oder [Uelzen](/blog/2018/06/mit-den-demokratielaboren-in-uelzen/)) entstanden!
 
 Zusätzlich zu diesem Format (Stationen an Schulen) planen wir in diesem Jahr (dort wo möglich) Stationen an die jeweiligen Spaces und Labs zu verlagern, von denen die Infonaut*innen kommen. Beispiele für solche Orte sind der [Verstehbahnhof](https://verstehbahnhof.de) in Fürstenberg oder das [Frei.Land](https://www.freiland-potsdam.de/) in Potsdam.
 
 
 ### Schulen
 
-Als **Schule im ländlichen Raum** können sie sich für eine Station bewerben. Generell übersteigt die Nachfrage unser Angebot, sodass es sich empfiehlt, schnell zu sein. Zunächst reicht für ihre Bewerbung eine einfache [Mail](mailto:info@turing.bus.de) mit folgenden Daten:
+Als **Schule im ländlichen Raum** können Sie sich für eine Station bewerben. Generell übersteigt die Nachfrage unser Angebot, sodass es sich empfiehlt, schnell zu sein. Zunächst reicht für Ihre Bewerbung eine einfache [Mail](mailto:info@turing.bus.de) mit folgenden Daten:
 
 * Schule / Ort
 * Anzahl / Alter der Schüler*innen (unser Angebot richtet sich an 15-19-jährige)
 * Falls vorhanden: mögliche Zeitfenster für die Station (i.d.R. halber Tag)
 * Stand in Sachen Informatik (kein Muss)
 
-Wir prüfen dann, ob es in ihrer Nähe einen spannenden Ort (z.B. Hackspace, Fablab oder Ok-Lab) gibt, der für eine Station in Frage kommen würde. Nach Absprache mit dem Space finden wir dann gemeinsam einen Termin für die Station. Sollten sie Unterstützung bei der Anreise brauchen, helfen wir gerne.
+Wir prüfen dann, ob es in Ihrer Nähe einen spannenden Ort (z.B. Hackspace, Fablab oder Ok-Lab) gibt, der für eine Station in Frage kommen würde. Nach Absprache mit dem Space finden wir dann gemeinsam einen Termin für die Station. Sollten Sie Unterstützung bei der An- und Abreise brauchen, helfen wir gerne.
 
-Sollte kein passender Space in der Nähe sein, findet die Station an ihrer Schule statt. Unser Angebot ist grundsätzlich kostenlos.
+Sollte kein passender Space in der Nähe sein, findet die Station an Ihrer Schule statt. Unser Angebot ist grundsätzlich kostenlos.
 
 Eine Station könnte zum Beispiel so aussehen:
 
@@ -72,7 +72,7 @@ Sie arbeiten an einem **spannenden Ort der Künstlichen Intelligenz** und sind b
 
 
 ### Infonaut*innen
-Sind Sie **Experte in einem Gebiet**, das in Zusammenhang mit Künstlicher Intelligenz steht und können sich vorstellen, einen Workshop anzubieten? Wir laden Sie ein, uns auf der Tour begleiten und gemeinsam mit jungen Menschen im ländlichen Raum nach neuen Gestaltungsmöglichkeiten unserer digitalisierten Welt entlang Ihrer Themen zu suchen. Wir übernehmen die Reisekosten, falls Sie nicht sowieso gleich mit uns im Bus fahren, und zahlen eine (leider nur) geringe Aufwandsentschädigung. Ihre für den Workshop entwickelten [Lehr- und Lernmaterialien veröffentlichen](#heading=h.pr6h5d2tq87l) wir bei entsprechender Eignung und in Absprache mit Ihnen gern als Open Educational Resources.
+Sind Sie **Experte in einem Gebiet**, das in Zusammenhang mit Künstlicher Intelligenz steht und können sich vorstellen, einen Workshop anzubieten? Wir laden Sie ein, uns auf der Tour begleiten und gemeinsam mit jungen Menschen im ländlichen Raum nach neuen Gestaltungsmöglichkeiten unserer digitalisierten Welt entlang Ihrer Themen zu suchen. Wir übernehmen die Reisekosten, falls Sie nicht sowieso gleich mit uns im Bus fahren, und zahlen eine (leider nur) geringe Aufwandsentschädigung. Ihre für den Workshop entwickelten Lehr- und Lernmaterialien veröffentlichen wir bei entsprechender Eignung und in Absprache mit Ihnen gern als Open Educational Resources.
 
 Möchten Sie sich als Infonaut*in bewerben? Schreiben Sie uns mit ein paar Sätzen zu Ihrer Motivation an [info@turing-bus.de](mailto:info@turing-bus.de) und ob Sie mit einem kurzen Vortrag, einer Demonstration einer Software/eines Roboters, als Teilnehmer*in einer Diskussion oder als Teamer*in eines Hands-On-Workshops dabei sein wollen. Wenn Sie ein eigenes Hands-On-Modul anbieten möchten, bitten wir Sie zudem, uns kurz die Ziele, Inhalte und Methoden zu und die Verbindung zum Thema KI zu umreißen. Lassen Sie uns außerdem wissen, über welche Vorkenntnisse die Workshopteilnehmenden verfügen sollten und welche Ausstattung der Workshop erfordert.
 
@@ -90,7 +90,7 @@ Ihre Nachricht sollte enthalten:
 
 ## Offene Lernmaterialien
 
-Um die Idee des Turing-Busses auch abseits seiner Haltestellen weitertragen zu können, werden wir alle von uns erstellten Lehr- und Lernmaterialien zur freien Nutzung und Weiterverwendung bereitgestellt (Open Educational Resources, OER). Sollten auch Sie spannende Unterrichtsmaterialien und Konzepte zu Informatik/KI entworfen haben, freuen wir uns über einen Hinweis. Besonders erfolgreiche Formate veröffentlichen wir nach Absprache. Sie können sich auch gern [als Infonaut*in bei uns bewerben](https://docs.google.com/document/d/1NkumZp6AYy8VV0tUeaBDhThoDPhlXz7edrOlgVp20rY/edit#heading=h.1er5m2b5loh6), und Ihr Konzept direkt als Teil einer Station umsetzen.
+Um die Idee des Turing-Busses auch abseits seiner Haltestellen weitertragen zu können, werden wir alle von uns erstellten Lehr- und Lernmaterialien zur freien Nutzung und Weiterverwendung bereitgestellt (Open Educational Resources, OER). Sollten auch Sie spannende Unterrichtsmaterialien und Konzepte zu Informatik/KI entworfen haben, freuen wir uns über einen Hinweis. Besonders erfolgreiche Formate veröffentlichen wir nach Absprache. Sie können sich auch gern als Infonaut*in bei uns bewerben, und Ihr Konzept direkt als Teil einer Station umsetzen.
 
 
 
