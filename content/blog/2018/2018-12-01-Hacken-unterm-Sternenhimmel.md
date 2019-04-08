@@ -3,7 +3,7 @@ title: "Abschlussveranstaltung Turing-Bus: Hacken unterm Sternenhimmel"
 subtitle: Letzte 'Station' 2018 im Planetarium am Insulaner in Berlin  
 authors:
 - Bela Seeger
-date: 2019-02-01
+date: 2018-12-01
 image:
   src: /files/blog/2019/planetarium_6039.jpg
 tags:
