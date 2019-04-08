@@ -13,14 +13,11 @@ before_install:
   - cd $TRAVIS_BUILD_DIR
 
 install:
-  - npm install
+  - echo "Nothing to install, skipping"
 
 script:
   - bin/hugo
-  - bash scripts/ci/build-site-search-index.sh
-  - bash scripts/ci/build-blog-search-index.sh
   - cp public/blog/atom.xml public/atom.xml
-  - mkdir public/feed/ && cp public/blog/rss.xml public/feed/index.xml
 
 after_success:
   - bash scripts/ci/deploy.sh
