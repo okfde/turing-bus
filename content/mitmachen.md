@@ -24,8 +24,8 @@ stats:
 
 Grundsätzlich gibt es drei Möglichkeiten, beim Turing-Bus dabei zu sein:
 
-1. Als **Schule im ländlichen Raum** können sie sich für eine Station bewerben. Dies bedeutet je nach lokalen Gegebenheiten entweder, dass der Bus zu ihrer Schule kommt und dort Workshops anbietet, oder, dass der Bus einen Hack- oder Makerspace in ihrer Nähe anfährt und die Station dort stattfindet.
-2. **Hack- und Makerspaces** sowie **Orte der KI**, die daran interessiert sind eine Station zu hosten können sich ebenfalls gerne melden. Im besten Fall sollte ihre Räumlichkeit Platz für mindestens  20-30 Personen bieten.
+1. Als **Schule im ländlichen Raum** können Sie sich für eine Station bewerben. Dies bedeutet je nach lokalen Gegebenheiten entweder, dass der Bus zu Ihrer Schule kommt und dort Workshops anbietet, oder, dass der Bus einen Hack- oder Makerspace in Ihrer Nähe anfährt und die Station dort stattfindet.
+2. **Hack- und Makerspaces** sowie **Orte der KI**, die daran interessiert sind eine Station zu hosten können sich ebenfalls gerne melden. Im besten Fall sollte Ihre Räumlichkeit Platz für mindestens  20-30 Personen bieten.
 3. Sind sie **Expert*in** in einem Gebiet, dass in Zusammenhang mit Künstlicher Intelligenz steht und möchten einen Workshop für Schüler*innen zwischen 15 und 19 Jahren im ländlichen Raum anbieten? Der Turing-Bus sucht immer nach spannenden Infonaut*innen, die uns auf der Tour begleiten.  
 
 
@@ -35,7 +35,7 @@ Auf unseren Stationen kooperieren wir mit Vertreter*innen von regionalen und bun
 
 Diese sogenannten **Infonaut*innen** kommen aus [Hackspaces](https://de.wikipedia.org/wiki/Hackerspace), [Offenen Werkstätten](https://www.offene-werkstaetten.org/seite/offene-werkstaetten) und [OK-Labs](https://codefor.de/ueber/), aber auch aus Politik, Zivilgesellschaft und Wirtschaft. Sie sind Expert*innen verschiedener Disziplinen und Aspekte der Digitalisierung und begleiten uns auf der Tour, um Schüler*innen  im ländlichen Raum Diskussions- und Hands-on-Formate ([Module](/module)) anzubieten. Mit ihrer Hilfe und unseren eigenen Workshopformaten sind im letzten Jahr bereits einige spannende Stationen (z.B. [Landsberg](/blog/2018/06/mit-chaos-macht-schule-und-code-for-germany-in-riesa/) oder [Uelzen](/blog/2018/06/mit-den-demokratielaboren-in-uelzen/)) entstanden!
 
-Zusätzlich zu diesem Format (Stationen an Schulen) planen wir in diesem Jahr (dort wo möglich) Stationen an die jeweiligen Spaces und Labs zu verlagern, von denen die Infonaut*innen kommen. Beispiele für solche Orte sind der [Verstehbahnhof](https://verstehbahnhof.de) in Fürstenberg oder das [Frei.Land](https://www.freiland-potsdam.de/) in Potsdam.
+Zusätzlich zu diesem Format (Stationen an Schulen) planen wir in diesem Jahr (dort wo möglich) Stationen an die jeweiligen Spaces und Labs zu verlagern, von denen die Infonaut*innen kommen. Beispiele für solche Orte sind der [Verstehbahnhof](https://verstehbahnhof.de) in Fürstenberg oder das [Frei.Land](https://www.freiland-potsdam.de/) in Potsdam.  Damit wollen wir existierende Angebote und Strukturen bekannter machen und den Jugendlichen Aktionspotenziale in ihrer Umgebung aufzeigen, die  auch im Anschluss an unsere Tour zugänglich sind und zum gemeinschaftlichen, kreativen und selbstbestimmten Lernen und Arbeiten einladen.
 
 
 ### Schulen
@@ -65,7 +65,7 @@ Unser [Blog](/blog) enthält Berichte zu allen Stationen des letzten Jahres.
 
 
 ### Hack- und Makerspaces
-Ihr betreibt einen **Hack- oder Makerspace** und könnt euch vorstellen, diesen für einen halben Tag zur Verfügung zu stelllen? Wir möchten regionale Strukturen fördern und potentiell interessierte Jugendliche auf euch aufmerksam machen. Je nach Größe und Ausstattung eurer Räumlichkeiten planen wir mit euch eine Station in eurem Space. Ihr seid herzlich eingeladen, eigene Workshops anzubieten um die Möglichkeiten und Gegebenheiten eures Spaces hervorzuheben. Im besten Fall sollte eure Räumlichkeit Platz für 20-30 Personen bieten.
+Ihr betreibt einen **Hack- oder Makerspace** und könnt Euch vorstellen, diesen für einen halben Tag zur Verfügung zu stelllen? Wir möchten regionale Strukturen fördern und potentiell interessierte Jugendliche auf Euch aufmerksam machen. Je nach Größe und Ausstattung eurer Räumlichkeiten planen wir mit Euch eine Station in Eurem Space. Ihr seid herzlich eingeladen, eigene Workshops anzubieten um die Möglichkeiten und Gegebenheiten Eures Spaces hervorzuheben. Im besten Fall sollte Eure Räumlichkeit Platz für 20-30 Personen bieten.
 
 ### Orte der KI
 Sie arbeiten an einem **spannenden Ort der Künstlichen Intelligenz** und sind bereit, uns zu einer Exkursion mit den Schülerinnen und Schülern einzuladen? Das heißt zum Beispiel, Sie arbeiten im im Fachbereich Künstliche Intelligenz oder in der Robotik an einer Hochschule und können einen spannenden Einsatz von Software des maschinellen Lernens, einem Expertensystem, im Bereich der intelligenten Suche oder Optimierung, der automatischen Planung oder ähnlichen KI-Teilgebieten zeigen. Vielleicht arbeiten Sie auch in einem Rechenzentrum, das dedizierte Server für spezielle KI-Anwendungen zur Verfügung stellt, und können jungen Menschen Einblicke im Rahmen einer Führung gewähren.
@@ -79,7 +79,7 @@ Möchten Sie sich als Infonaut*in bewerben? Schreiben Sie uns mit ein paar Sätz
 
 
 
-## Möchten Sie sich mit ihrer Klasse, ihrem Space oder ihrem Workshop bewerben? Schreiben Sie uns an [info@turing-bus.de](mailto:info@turing-bus.de).
+## Möchten Sie sich mit Ihrer Klasse, Ihrem Space oder Ihrem Workshop bewerben? Schreiben Sie uns an [info@turing-bus.de](mailto:info@turing-bus.de).
 
 Ihre Nachricht sollte enthalten:
 
