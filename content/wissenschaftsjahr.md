@@ -32,6 +32,6 @@ Digitalisierung und Automatisierung werden in Zukunft weiter fortschreiten. Die 
 Das sind nur einige der Fragen, die wir im Wissenschaftsjahr 2019 stellen wollen. Es lohnt, sich mit diesen Aspekten zu beschäftigen. Denn Künstliche Intelligenz ist die wohl spannendste Zukunftstechnologie unserer Zeit.
 
 ![Wissenschaftsjahr ](/files/wissenschaftsjahr/WJ19_motive_all.png)
-Foto: <a href="https://www.flickr.com/photos/max-stolbinsky/36174159450/">Hamburg. Speicherstadt</a> von <a href="https://www.flickr.com/photos/max-stolbinsky/">Max Stolbinsky</a> under <a href="https://creativecommons.org/licenses/by/2.0/">CC By 2.0</a>
+<!--Foto: <a href="https://www.flickr.com/photos/max-stolbinsky/36174159450/">Hamburg. Speicherstadt</a> von <a href="https://www.flickr.com/photos/max-stolbinsky/">Max Stolbinsky</a> under <a href="https://creativecommons.org/licenses/by/2.0/">CC By 2.0</a>-->
 
 Sie birgt **viele Chancen**, unser Zusammenleben auf sozialer, politischer und wirtschaftlicher Ebene voranzubringen. Zum Beispiel können programmierte **Roboter** Menschen körperlich schwere oder eintönige Arbeiten abnehmen. In der **Medizin** gelingt es modernen Computern in kurzer Zeit, große Mengen an medizinischen Daten auszuwerten. Dadurch ist es heute schneller möglich, Therapien gegen Krankheiten zu entwickeln. Intelligente **Verkehrskonzepte** wiederum tragen mit dazu bei, dass die Luft in unseren Städten sauberer wird. Künstliche Intelligenz sorgt außerdem dafür, dass **Strom** aus Wind, Sonne und Wasser immer besser gespeichert werden kann.
