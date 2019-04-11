@@ -29,9 +29,11 @@ Das Thema des Wissenschaftsjahres 2019 ist **Künstliche Intelligenz** – ein B
 Unsere **Infonaut*innen** kommen aus [Hackspaces](https://de.wikipedia.org/wiki/Hackerspace), [Offenen Werkstätten](https://www.offene-werkstaetten.org/seite/offene-werkstaetten) und [OK-Labs](https://codefor.de/ueber/), aber auch aus Politik, Zivilgesellschaft und Wirtschaft. Sie sind Expert*innen aus Informatik, Techniksoziologie, Didaktik, Philosophie, Politik- und Kulturwissenschaft. Im letzten Jahr haben sie uns auf unserer Tour begleitet, um mit Jugendlichen im ländlichen Raum über die digitalisierte Lebens- und Arbeitswelt zu diskutieren und Mitmach-Workshops (Module) anzubieten. Mit ihrer Hilfe sind so einige spannende Stationen (z.B. [Landsberg](/blog/2018/06/mit-chaos-macht-schule-und-code-for-germany-in-riesa/), [Riesa](/blog/2018/06/mit-chaos-macht-schule-und-code-for-germany-in-riesa/) und [Uelzen](/blog/2018/06/mit-den-demokratielaboren-in-uelzen/)) entstanden!
 
 Zusätzlich zu den Stationen an Schulen werden wir in diesem Jahr auch einige Hack- und Maker-Spaces anfahren. Die ersten drei Stationen werden zum Beispiel
+
 * im [Verstehbahnhof](https://verstehbahnhof.de) in Fürstenberg (am Donnerstag, den 16. Mai 2019),
 * im [Frei.Land](https://www.freiland-potsdam.de/) in Potsdam (am Donnerstag, den 23. Mai 2019) und
 * an der [Technikschule in Lübbenau](http://jfvnet.de/cleverinside) (am Dienstag, den 28. Mai 2019) stattfinden.
+
 All diese Stationen sind gemeinschaftliche Orte, an denen Menschen in Eigeninitiative grundlegende technische Fähigkeiten weitergeben, sich gegenseitig beim Reparieren, Programmieren, Basteln und Erfinden unterstützen und die Netzwelt aktiv politisch gestalten. Indem wir unsere Workshops an solchen Orten digitaler Bildung und Kultur veranstalten, wollen wir die existierenden Angebote und Strukturen bekannter machen. Euch und uns möchten wir spannende Orte jenseits der urbanen Zentren aufzeigen, die auch im Anschluss an unsere Tour weiter zugänglich sind und zum gemeinschaftlichen, kreativen und selbstbestimmten Lernen und Arbeiten einladen.
 
 
