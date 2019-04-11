@@ -5,7 +5,7 @@ authors:
 - Turing-Bus Team
 date: 2019-04-10
 image:
-  src: /files/blog/2018/20180626_121253-copy.jpg
+  src: /files/blog/2018/turing-bus-in-bernau_41586416744_o.jpeg
 tags:
 - TuringBus
 - Station
