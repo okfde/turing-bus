@@ -32,7 +32,9 @@ Zusätzlich zu den Stationen an Schulen werden wir in diesem Jahr auch einige Ha
 
 * im [Verstehbahnhof](https://verstehbahnhof.de) in Fürstenberg (am Donnerstag, den 16. Mai 2019),
 * im [Frei.Land](https://www.freiland-potsdam.de/) in Potsdam (am Donnerstag, den 23. Mai 2019) und
-* an der [Technikschule in Lübbenau](http://jfvnet.de/cleverinside) (am Dienstag, den 28. Mai 2019) stattfinden.
+* an der [Technikschule in Lübbenau](http://jfvnet.de/cleverinside) (am Dienstag, den 28. Mai 2019)
+
+stattfinden.
 
 All diese Stationen sind gemeinschaftliche Orte, an denen Menschen in Eigeninitiative grundlegende technische Fähigkeiten weitergeben, sich gegenseitig beim Reparieren, Programmieren, Basteln und Erfinden unterstützen und die Netzwelt aktiv politisch gestalten. Indem wir unsere Workshops an solchen Orten digitaler Bildung und Kultur veranstalten, wollen wir die existierenden Angebote und Strukturen bekannter machen. Euch und uns möchten wir spannende Orte jenseits der urbanen Zentren aufzeigen, die auch im Anschluss an unsere Tour weiter zugänglich sind und zum gemeinschaftlichen, kreativen und selbstbestimmten Lernen und Arbeiten einladen.
 
