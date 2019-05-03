@@ -42,7 +42,7 @@ Der Verstehbahnhof schreibt über sich selbst: *"In der ehemaligen Bahnhofswarte
 
 Es wird auf dieser Station insgesamt drei Workshops geben, an denen Schulen aus dem Umkreis teilnehmen können. Dabei programmieren die Teilnehmenden Chatbots, lernen wie ein Datensatz entsteht und nutzen die Möglichkeiten des Fablabs vor Ort. Im Anschluss gibt es noche eine Podiumsdiskussion zum Thema KI im ländlichen Raum. 
 
-Interessierte aus Presse und Öffentlichkeit können sich gerne unter info[at]turing-bus.de anmelden oder einfach vorbeikommen. Die Veranstaltung findet direkt am Bahnhof FÜrstenberg (Havel) statt (von Berlin in ca. 1h mit dem Zug zu erreichen).
+Interessierte aus Presse und Öffentlichkeit können sich gerne unter info[at]turing-bus.de anmelden oder einfach vorbeikommen. Die Veranstaltung findet direkt am Bahnhof Fürstenberg (Havel) statt (von Berlin in ca. 1h mit dem Zug zu erreichen).
 
 #### Ablauf: 
 
