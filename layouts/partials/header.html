@@ -14,6 +14,7 @@
         </button>
       </div>
       <ul class="l__nav c__nav-list c__nav-list--top" id="js-topnav-menu">
+        {{ with .Site.GetPage "/stationen" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/mitmachen" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/module" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/wissenschaftsjahr" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
