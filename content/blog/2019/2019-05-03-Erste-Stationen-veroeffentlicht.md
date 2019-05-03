@@ -3,7 +3,7 @@ title: "Erste Stationen veröffentlicht!"
 subtitle: "Stationen an Verstehbahnhof (Fürstenberg), machBar / freiLand (Potsdam), Technikschule Clever Inside (Lübbenau) & mehr"
 authors:
 - Turing-Bus Team
-date: 2019-04-10
+date: 2019-05-03
 image:
   src: /files/blog/2018/turing-bus-in-bernau_41586416744_o.jpeg
 tags:
