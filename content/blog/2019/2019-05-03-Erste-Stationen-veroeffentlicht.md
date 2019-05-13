@@ -48,8 +48,10 @@ Interessierte aus Presse und Öffentlichkeit können sich gerne unter info[at]tu
 
 * 09:00-10:00 Begrüßung und Stationenlernen
 * 10:00-13:00 Workshops
-* 13:00-13:30 Mittagspause
-* 14:30-15:30 Podiumsdiskussion
+* 13:00-14:00 Mittagspause
+* 14:00-14:00 Grußworte und Kurz-Input von Prof. Dr. Wolfgang Coy (GI-Fachgruppe Informatik und Ethik)
+* 14:30-15:30 Fishbowl-Diskussion u.a. mit Prof. Dr. Ulrike Lucke (GI Vorstand), Gesine Last [Horizonte Erweitern](https://www.cerri.iao.fraunhofer.de/de/projekte/AktuelleProjekte/Horizonte-Erweitern.html), Silvia Henning [Neuland21](https://neuland21.de/), Ilona Stuetz [Jugend hackt](https://jugendhackt.org/) und Daniel Domscheit-Berg (Verstehbahnhof)
+
 
 ### 3. machBar / freiLand / OK-Lab Potsdam: 23. Mai 
 
