@@ -1,9 +1,9 @@
 ---
-title: Turing-Bus
+title: Turing-Fahrrad
 
 #Section 1 Parallax
 
-heroHeading: 'Mit dem Turing-Bus auf den Spuren Künstlicher Intelligenz'
+heroHeading: 'Mit dem Turing-Fahrrad auf den Spuren Künstlicher Intelligenz'
 heroSubHeading: 'Der Begriff Künstliche Intelligenz (KI) ist aktuell in aller Munde. Es ist nicht der erste Hype um die schon viele Jahrzehnte alte Teildisziplin der Informatik. Wir möchten KI in Mitmach-Workshops und Diskussionen entzaubern. 15- bis 19-jährige Schüler*innen im ländlichen Raum lernen dabei, kritisch mit den Begriffen KI und Maschinenlernen umzugehen.'
 heroBackground: '/okf/profil/profil_teaser_1.jpg'
 
@@ -20,7 +20,7 @@ parallax1: '/files/blog/2018/turing-bus-in-bernau_41407107815_o.jpeg'
 
 #Section 4 Mitmachen
 
-mitmachen: 'Sie möchten einer der Stationen als Workshopleiter dabei sein, betreiben einen Hack- oder Makerspace oder möchten, dass der Turing-Bus zu ihren Schüler*innen kommt?'
+mitmachen: 'An alle Interessierten: schon jetzt haben uns mehr Anfragen erreicht, als wir im Rahmen unserer diesjährigen Tour bedienen können. Schreiben Sie uns dennoch, um auf unsere Nachrückerliste zu kommen und um Ihr Interesse an unserem Angebot zu bekunden. Dies hilft uns bei der Verstetigung unseres Projektes!'
 mitmachenimg: '/okf/profil/profil_teaser_1.jpg'
 
 ---

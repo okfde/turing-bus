@@ -20,6 +20,17 @@ stats:
     text: Teilnehmer*innen im Alter von 15-19 Jahren waren dabei.
 ---
 
+
+### An alle Interessierten: schon jetzt haben uns mehr Anfragen erreicht, als wir im Rahmen unserer diesjährigen Tour bedienen können. Schreiben Sie uns dennoch jetzt an [info@turing-bus.de](mailto:info@turing-bus.de), um auf unsere Nachrückerliste zu kommen und um Ihr Interesse an unserem Angebot zu bekunden. Dies hilft uns bei der Verstetigung unseres Projektes!
+
+
+Ihre Nachricht sollte enthalten:
+
+* Schule / Ort
+* Anzahl / Alter der Schüler*innen
+* Bildungsstand in Sachen Informatik (kein Muss)
+* Falls vorhanden: mögliche Zeitfenster für die Station (i.d.R. halber Tag)
+
 ## [tl;dr](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read)
 
 Grundsätzlich gibt es drei Möglichkeiten, beim Turing-Bus dabei zu sein:
