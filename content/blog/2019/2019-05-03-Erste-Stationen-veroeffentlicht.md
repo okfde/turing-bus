@@ -62,7 +62,7 @@ Unsere Station in Potsdam gestalten wir gemeinsam mit dem [OK-Lab Potsdam](https
 
 Das freiLand ist ein 12.000 Quadratmetern großes Kulturzentrum mit fünf Häusern und einem großes Außengelände in Potsdam, ganz in der Nähe des Hauptbahnhofes. Hier befinden sich unter anderem der Spartacus Club, das Café hausZwei, Seminarräume, der Jugendtreff clubMitte, das Freie Radio Potsdam, Bandprobenräume (die noch im Entstehungsprozess sind), ein offenes Atelier, ein Theaterraum, ein Bewegungsatelier, diverse Büros & Ateliers, uvm. Eine Übersicht über alle Projekte im freiLand gibt es [hier](https://www.freiland-potsdam.de/projekte#content).
 
-Auf unserer Station am freiLand bieten wir mehrere Workshops an (Chatbot bauen, wie entsteht ein Datensatz?, Biolab / machBar). Die Veranstaltung beginnt um 09:30 Uhr und endet um ca. 13:30 Uhr. 
+Auf unserer Station am freiLand bieten wir mehrere Workshops an (Chatbot bauen, wie entsteht ein Datensatz?, Biolab / machBar). Die Veranstaltung beginnt um 09:30 Uhr und endet ca. um 14 Uhr. 
 
 FreiLand - Kulturzentrum und Spielwiese - [Friedrich Engels Str. 22, 14473 Potsdam](https://www.openstreetmap.org/way/139749547)
 
