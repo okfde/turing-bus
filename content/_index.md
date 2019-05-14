@@ -20,7 +20,7 @@ parallax1: '/files/blog/2018/turing-bus-in-bernau_41407107815_o.jpeg'
 
 #Section 4 Mitmachen
 
-mitmachen: 'Sie möchten einer der Stationen als Workshopleiter dabei sein, betreiben einen Hack- oder Makerspace oder möchten, dass der Turing-Bus zu ihren Schüler*innen kommt?'
+mitmachen: 'An alle Interessierten: schon jetzt haben uns mehr Anfragen erreicht, als wir im Rahmen unserer diesjährigen Tour bedienen können. Schreiben Sie uns dennoch, um auf unsere Nachrückerliste zu kommen und um Ihr Interesse an unserem Angebot zu bekunden. Dies hilft uns bei der Verstetigung unseres Projektes!'
 mitmachenimg: '/okf/profil/profil_teaser_1.jpg'
 
 ---
