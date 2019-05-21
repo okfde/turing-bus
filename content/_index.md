@@ -16,7 +16,7 @@ img: files/icons/wj.svg
 #Section 3 Parallax II
 
 
-parallax1: '/files/blog/2018/turing-bus-in-bernau_41407107815_o.jpeg'
+parallax1: '/files/blog/2019/05/verstehbahnhof-turing-bus-001.jpg'
 
 #Section 4 Mitmachen
 
