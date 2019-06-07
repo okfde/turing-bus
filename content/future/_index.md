@@ -8,7 +8,7 @@ box_title: Unser Blog enthält Berichte zu den Stationen des letzten Jahres.
 box_link_name: → Jetzt ansehen
 
 heroHeading: 'Mit dem Turing-Bus auf den Spuren Künstlicher Intelligenz'
-heroSubHeading: 'Der Turing-Bus möchte digitale Mündigkeit in den ländlichen Raum bringen. Im Jahr 2018 haben wir dazu mit dem Bus Workshops und Inhalte an Schulen gebracht. Dieses Jahr laden wir zusätzlich Schulen an Orte des kollaborativen Lernens ein (Offene Werkstätten, Hackspaces, Fablabs). Und  nächstes Jahr?'
+heroSubHeading: 'Der Turing-Bus möchte digitale Mündigkeit in den ländlichen Raum bringen. Im Jahr 2018 haben wir dazu mit dem Bus Workshops und Inhalte an Schulen gebracht, im Jahr 2019 laden wir zusätzlich Schulen an Orte des kollaborativen Lernens ein (Offene Werkstätten, Hackspaces, Fablabs). Und nächstes Jahr?'
 heroBackground: '/files/blog/2018/126-FW7_6972.jpg'
 ---
 
