@@ -3,7 +3,7 @@ title: "Zwischenstand der Tour 2019 + neue Stationen"
 subtitle: "Ein Rückblick auf die erste Jahreshälfte mit Stationen in Fürstenberg, Potsdam, Lübbenau, Binz und Perleberg sowie ein Ausblick auf das restliche Jahr"
 authors:
 - Turing-Bus Team
-date: 2019-06-10
+date: 2021-06-10
 image:
   src: /files/blog/2019/06/turing-bus-im-verstehbahnhof-frstenberg_47101913714_o-sm.jpg
 tags:
