@@ -3,7 +3,7 @@ title: "Zwischenstand der Tour 2019 + neue Stationen veröffentlicht"
 subtitle: "Ein Rückblick auf die erste Jahreshälfte mit Stationen in Fürstenberg, Potsdam, Lübbenau, Binz und Perleberg sowie ein Ausblick auf das restliche Jahr"
 authors:
 - Turing-Bus-Team
-date: 2020-06-10
+date: 2019-07-17
 image:
   src: /files/blog/2019/06/turing-bus-im-verstehbahnhof-frstenberg_46975119895_o-sm.jpg
 tags:
@@ -23,7 +23,7 @@ featured: blue
 
 ---
 
-Wenn der Turing-Bus erst mal ins Rollen kommt, vergeht die Zeit wie im Fluge. Drei Monate nach dem Beginn des Wissenschaftsjahres 2019 waren auf fünf Stationen bereits mehr als 200 Teilnehmer\*innen aus 11 Schulen bei unseren Workshops zum Thema Künstliche Intelligenz dabei. Unsere Kooperationen mit regionalen Orten der kollaborativen Bildung (Hackspaces, Offene Werkstätten, Fablabs & Co.) lief mit großartigen Stationen an, die so unterschiedlich und einzigartig waren wie die Orte selbst. Parallel konnten wir unseren zweiten großen Tourabschnitt nach den Sommerferien mit Stationen in Niedersachsen, Nordrhein-Westfalen und Rheinland-Pfalz planen.
+Wenn der Turing-Bus erst mal ins Rollen kommt, vergeht die Zeit wie im Fluge. Drei Monate nach dem Beginn des Wissenschaftsjahres 2019 waren auf fünf Stationen bereits mehr als 200 Teilnehmer\*innen aus 11 Schulen bei unseren Workshops zum Thema Künstliche Intelligenz dabei. Unsere Kooperationen mit regionalen Orten der kollaborativen Bildung (Hackspaces, Offene Werkstätten, Fablabs & Co.) lief mit großartigen Stationen an, die so unterschiedlich und einzigartig waren wie die Orte selbst. Parallel konnten wir unseren zweiten großen Tourabschnitt nach den Sommerferien mit Stationen in Niedersachsen, Nordrhein-Westfalen und Rheinland-Pfalz planen (siehe [Stationen](/stationen)).
 
 ### Re:publica: Talk von Andrea und Bela
 
@@ -31,25 +31,9 @@ Auf der Netzkonferenz Re:publica waren wir mit einem Talk vertreten. Dabei ging 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ar434KUf8Lo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Auftaktstation in Fürstenberg (16. Mai, 35 TN)
+### Station #1: Auftaktstation im Verstehbahnhof Fürstenberg
 
-Die Auftaktstation fand dieses Jahr am [Verstehbahnhof](https://www.verstehbahnhof.de/) in Fürstenberg (Havel) statt. Eine gute Stunde von Berlin entfernt entsteht hier gerade ein fantastisches Domizil für Jugendliche aus der Umgebung in Brandenburg und Mecklenburg-Vorpommern. Der Verstehbahnhof wird vom gemeinnützigen [havel:lab](https://www.havellab.org/) getragen und ist ein Makerspace und Veranstaltungsort für junge Menschen. Neben Workshops, Projekttagen und -wochen hat das 'gallische Digitaldorf' auch Fortbildungen für Lehrkräfte und themenspezifische Veranstaltungen für die Öffentlichkeit im Programm. 
-
-Gemeinsam mit dem neu gegründeten [*Jugend hackt*-Lab](https://jugendhackt.org/termine-in-den-jugend-hackt-labs) untersuchten die Schülerinnen und Schüler mit kleinen KI-App-Test-Stationen und in zwei Turing-Bus-Workshops genauer, was Künstliche Intelligenz eigentlich ausmacht, warum die Bezeichnung für die Technik dahinter gar nicht so gut passt und wo sie herkommt. Außerdem konnte die Werkstatt des Verstehbahnhofs in einem dritten Löt- und Maschinenworkshop vom Verstehbahnhof ausprobiert werden.
-
-Grüße vom Kulturbahnhof in Biesenthal an den Verstehbahnhof überbrachte am Nachmittag Prof. Dr. Wolfgang Coy (GI-Fachgruppe „Informatik und Ethik“, Professor i. R. für Informatik in Bildung und Gesellschaft an der Humboldt-Universität zu Berlin). Er nahm uns mit auf einen technikgeschichtlichen Ausflug von der Eisenbahn zur Vernetzung und Automatisierung, die die allmähliche Auflösung des Stadt-Land-Gefälles, den Bedeutungsverlust der Stadt begleiten. Prof. Dr. Ulrike Lucke (Gesellschaft für Informatik e.V., Professorin für Komplexe Multimediale Anwendungsarchitekturen an der Universität Potsdam) bestärkte in einem weiteren Impuls die Rolle kreativer Lernorte wie dem Verstehbahnhof für die Entwicklung einer mündigen Haltung in einer durch und durch digitalisierten Welt. Die Teilnehmer\*innen der Schulen in Gransee und Neustrelitz konnten in einer Fishbowl-Diskussionsrunde ihre Kommentare und Anmerkungen zum Thememfeld Künstliche Intelligenz und ländlicher Raum loswerden, an der auch Silvia Hennig (neuland21.de), Ilona Stuetz (mediale pfade, Jugend hackt) und Paula Glaser (Jugend hackt) teilnahmen. 
-
-Uns hat die Station unglaublich viel Spaß gemacht und wir hoffen, die Schüler\*innen des Gymnasiums Carolinum (Neustrelitz) und des Erwin-Strittmatter-Gymnasiums (Gransee) inspiriert zu haben, den Verstehbahnhof noch öfter aufzusuchen. Die Energie und der Optimisimus des Verstehbahnhofs machen ihn jedenfalls zu einem  Ort, der Aufmerksamkeit verdient. Wir sind schon sehr gespannt, zu beobachten, wohin sich der Verstehbahnhof noch entwickelt.   
-
-Wie das ganze aussah, kann auf Flickr nachverfolgt werden: 
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/okfde/albums/72157705194338012" title="Turing-Bus im Verstehbahnhof"><img src="https://live.staticflickr.com/65535/47838179942_707aa3dcc7_c.jpg" width="800" height="534" alt="Turing-Bus im Verstehbahnhof"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-
-Wir danken besonders Eva, Daniel und den Lehrer\*innen Jens Richter-Mendau, Martina Ridt und Julia Senft sowie den Schüler\*innen des Neustrelitzer und des Granseer Gymnasiums.
-
-Berichte von anderen hier:
-* https://www.maz-online.de/Lokales/Oberhavel/Fuerstenberg/Turing-Bus-startet-seine-Deutschlandtour-2019-in-Fuerstenberg-Havel
-* https://www.carolinum.de/schulalltag/schuelertourauftakt-des-turing-busses-2019-im-verstehbahnhof-fuerstenberg-havel/
+Über unsere Auftaktstation haben wir [hier](/blog/2019/06/auftakt-in-fuerstenberg/) ausführlicher berichtet. 
 
 ### Station #2 im Kulturzentrum Freiland, Potsdam (28. Mai, 24 TN)
 
@@ -61,11 +45,11 @@ Das [freiLand Potsdam](https://www.freiland-potsdam.de) ist ein gutes Beispiel d
 
 Dokumentiert wurde das Ganze vom Freitag:
 
+* https://www.freitag.de/autoren/der-freitag/der-spion-liebt-mich
 * https://twitter.com/TuringBus/status/1139113667084148736
-* https://digital.freitag.de/2419/der-spion-liebt-mich/ (Paywall)
 
 
-### Station #3 in Lübbenau (124 (!) TN)
+### Station #3 in Lübbenau (96 (!) TN)
 
 Man könnte sagen, Lübbenau war eine Rekordstation. Gemeinsam mit Frank Thorhauer (AWO mobile offene Werkstatt für Kinder & Jugendliche "Makerkutsche"), Dirk und Paul boten wir insgesamt 5 Workshops für 124 Teilnehmende an! Ort der Station war die [Technikschule clever.Inside](http://jfvnet.de/cleverinside/) im schönen Spreewald(gurken)areal Lübbenau. 
 
@@ -124,6 +108,7 @@ Einen Bericht vom youthmag gibt es hier:
 Wir waren auch auf dem [7. Perleberger Technologietag](https://www.stadt-perleberg.de/news/1/503647/nachrichten/7.-technologietag-am-5.-juni-in-perleberg.html) zu Gast. Dabei hatten wir zwei Workshops im Angebot: „Was Daten mit KI zu tun haben und wie sie entstehen“ (Max Voigt) und „Meine Chatbot-Freundin“ (Andrea Knaut). 
 
 Berichte gibt es hier:
+
 * https://gymnasiumperleberg.com/2019/06/07/turing-bus-besuchte-den-perleberger-technologietag-2019/
 * https://www.rbb-online.de/brandenburgaktuell/archiv/20190605_1930/nachrichten-zwei.html
 
