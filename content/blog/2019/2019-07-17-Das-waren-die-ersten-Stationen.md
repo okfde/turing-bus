@@ -78,9 +78,7 @@ Man könnte sagen, Lübbenau war eine Rekordstation. Gemeinsam mit Frank Thorhau
 Warum Rekordstation? Zum Beispiel, weil die Begrüßung 'open air' durchgeführt werden musste, da keiner der vorhandenen Räume groß genug für alle Teilnehmenden war. Oder weil jeder Schrittzähler dank der gelegentlichen Raumwechsel marathonartige Distanzen attestiert hätte, wäre einer verfügbar gewesen. So hat diese fantastische Station einige unserer sportmuffeligen Infonaut\*innen mit klassischer Monitorbräune aus der Reserve gelockt. Zum Glück waren wir dank der 4-fachen Gurkenauswahl beim Frühstück ausreichend gestärkt! 
 
 ![Gurkenlove](/files/blog/2019/06/IMG_20190528_075012.jpg)
-
-
-*Foto: Workshops + Podium in Lübbenau. CC-0*
+*Foto: Gurken nonstop in Lübbenau. CC-0*
 
 
 Workshops:
@@ -92,7 +90,7 @@ Workshops:
 * Workshop 5: Wir bewegen Schrott (Paul).
 
 ![Turing-Bus in Lübbenau](/files/blog/2019/07/TuringBus-Lubbenau-06.jpg)
-![Turing-Bus in Lübbenau](/files/blog/2019/07/TuringBus-Lubbenau-09.jpg)
+*Foto: Chatbot Workshop von Andrea Knaut in Lübbenau. CC-0*
 
 
 Teilnehmende Schulen: 
@@ -112,8 +110,7 @@ Zum Abschluss dieses Tages der Superlative ging es am Nachmittag mit einer Fishb
 
 ![Turing-Bus in Lübbenau](/files/blog/2019/07/TuringBus-Lubbenau-09.jpg)
 ![Turing-Bus in Lübbenau](/files/blog/2019/07/DSC_0703.jpeg)
-
-
+*Foto: Podium in Lübbenau. CC-0*
 
 
 Ein riesengroßes Dankeschön an [Frank](https://makerkutsche.de/) von der Makerkutsche!
@@ -131,6 +128,7 @@ Zum einen schauten wir uns hierfür das Regelwerk des ersten wirklich berühmten
 Bei den Demonstrationen der verschiedenen Recherche- und Programmierergebnisse eröffneten sich viele Diskussionsstränge, die wir noch weit über die Workshopzeit hinaus hätten fortführen können: Einige Teilnehmer\*innen hielten es für wenig sinnvoll, die Maschinenhaftigkeit von Chatbots zu verschleiern – was sei ihr Sinn, wenn man nicht mehr erkenne, dass sie Maschinen sind? Erstaunt zeigten sich ebenfalls einige, dass Chatbots und Sprachassistenzsysteme oft Frauennamen tragen. Eine zentrale Frage war auch, inwiefern die Simulation menschlicher Denk- und Sprechfähigkeit durch Computerprogrammen in Zusammenhang mit Wissenssystemen für eine nachhaltige Entwicklung wirklich nutzbar gemacht werden kann und ob dies überhaupt nötig ist, wenn KI so viele neue Probleme aufwirft und allein durch ihre Bezeichnung für viel Verwirrung und Verblendung sorgt. Auch wenn Maschinen noch nicht denken, haben wir uns zumindest eine Menge zu denken gegeben ;-)
 
 Unser Workshop ist ein Remix aus folgenden Bildungsmaterialien:
+
 * \[1\] <a name="ref1"></a> Turing-Test von Annabel Lindner und Stefan Seegerer: AI Unplugged – Wir ziehen künstlicher Intelligenz den Stecker, Didaktik der Informatik, FAU Nürnberg 2019, URL: https://ddi.cs.fau.de/schule/ai-unplugged 
 - \[2\] <a name="ref2"></a> Teile zu ELIZA, Weizenbaum, Turing von Malte Hornung und Helmut Witten: Künstliche Intelligenz im Informatikunterricht -Unterrichtseinheit Chatbots, Berlin 2008, URL: https://medienwissenschaft.uni-bayreuth.de/inik/entwuerfe/chatbots/ 
 - \[3\] <a name="ref3"></a> Chatbots mit IBM Watson von Dale Lane (Machine Learning for Kids): Chatbots, 2018/2019, URL: https://machinelearningforkids.co.uk 
