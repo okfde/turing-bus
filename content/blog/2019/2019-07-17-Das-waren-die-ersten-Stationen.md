@@ -25,7 +25,6 @@ featured: blue
 
 Wenn der Turing-Bus erst mal ins Rollen kommt, vergeht die Zeit wie im Fluge. Vier Monate nach dem Beginn des Wissenschaftsjahres 2019 waren auf sieben Stationen bereits mehr als 200 Teilnehmer\*innen aus 11 Schulen bei unseren Workshops zum Thema Künstliche Intelligenz dabei. Unsere Kooperationen mit regionalen Orten der kollaborativen Bildung (Hackspaces, Offene Werkstätten, Fablabs & Co.) lief mit großartigen Stationen an, die so unterschiedlich und einzigartig waren wie die Orte selbst. Parallel konnten wir unseren zweiten großen Tourabschnitt nach den Sommerferien mit Stationen in Niedersachsen, Nordrhein-Westfalen und Rheinland-Pfalz planen (siehe [Stationen](/stationen)).
 
-
 ### Re:publica: Talk von Andrea und Bela
 
 Auf der Netzkonferenz Re:publica waren wir mit einem Talk vertreten. Dabei ging es um die Werte und Überzeugungen, die unser Projekt antreiben, einen Rückblick aufs letzte Jahr sowie Spekulationen, wie die Zukunft des Turing-Busses (oder der Turing-Busse?) aussehen könnte.
