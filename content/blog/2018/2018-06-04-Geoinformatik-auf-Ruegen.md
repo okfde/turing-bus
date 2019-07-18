@@ -23,7 +23,7 @@ featured: blue
 ---
 Am 3. Juni starteten wir mit unserem vollgepackten Turing-Bus gut gelaunt gen Norden in Richtung Rügen. Die Fahrt führte uns durch die Brandenburger Alleen ins grüne Mecklenburg-Vorpommern. Wir waren zu dritt im Auto, aber die Geoinformatiker der Universität Münster sollten am Abend noch zu uns stoßen, um einigen Schlern und Schülerinnen der Regelschule „Am Burgwall“ ihr Projekt senseBox vorzustellen.
 
-![Turing-Bus in Bernau](/files/blog/2018/landscape-tree-grass-plant-road-lawn-787070-pxhere.com.jpg)
+![Turing-Bus](/files/blog/2018/landscape-tree-grass-plant-road-lawn-787070-pxhere.com.jpg)
 Foto: <a href="https://creativecommons.org/choose/zero/?lang=de">CC-0</a>
 
 Bis spät in die Nacht hinein bereiteten wir noch unseren Workshop zum Digitalen Flugblatt vor, den wir während der Tour beständig weiter entwickelten – die Powerbanks für die portablen Pi’s mussten geladen, die Webseitenvorlage für das Flugblatt zurückgesetzt und letzte Schliffe an neuen Spielen und Filmkommentaren, die wir uns ausgedacht hatten, vorgenommen werden.

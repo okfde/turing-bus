@@ -1,6 +1,6 @@
 ---
 title: "Auftaktstation am Verstehbahnhof / Jugend hackt Lab in Fürstenberg"
-subtitle: "Ein Rückblick auf die Eröffnungsstation der Tour 2019"
+subtitle: "Ein Rückblick auf die Eröffnungsstation der Tour 2019 (16. Mai, 35 TN)"
 authors:
 - Turing-Bus-Team
 date: 2019-06-10
@@ -17,8 +17,7 @@ featured: blue
 
 ---
 
-### Auftaktstation in Fürstenberg (16. Mai, 35 TN)
-
+*Bilder: Der Turing-Bus in Fürstenberg. <a href="https://www.flickr.com/photos/okfde/albums/72157705194338012">CC-BY 4.0 Open Knowledge Foundation DE, Fotograf: Leonard Wolf</a>*
 
 
 Die Auftaktstation fand dieses Jahr am [Verstehbahnhof](https://www.verstehbahnhof.de/) in Fürstenberg (Havel) statt. Eine gute Stunde von Berlin entfernt entsteht hier gerade ein fantastisches Domizil für Jugendliche aus der Umgebung in Brandenburg und Mecklenburg-Vorpommern. 
@@ -49,6 +48,8 @@ Prof. Dr. Ulrike Lucke (Gesellschaft für Informatik e.V., Professorin für Komp
 
 ![Turing-Bus in Fürstenberg](/files/blog/2019/06/turing-bus-im-verstehbahnhof-frstenberg_46975112165_o-sm.jpg)
 
+![Turing-Bus in Fürstenberg](/files/blog/2018/turing-bus-in-bernau_40502100660_o-lowres.jpg)
+Fotos: Der Turing-Bus in Fürstenberg. <a href="https://www.flickr.com/photos/okfde/albums/72157705194338012">CC-BY 4.0 Open Knowledge Foundation DE, Foto: Leonard Wolf</a>
 
 
 
@@ -64,3 +65,4 @@ Berichte von anderen gibt's hier:
 
 * https://www.maz-online.de/Lokales/Oberhavel/Fuerstenberg/Turing-Bus-startet-seine-Deutschlandtour-2019-in-Fuerstenberg-Havel
 * https://www.carolinum.de/schulalltag/schuelertourauftakt-des-turing-busses-2019-im-verstehbahnhof-fuerstenberg-havel/
+
