@@ -5,7 +5,7 @@ authors:
 - Turing-Bus-Team
 date: 2019-07-17
 image:
-  src: /files/blog/2019/06/turing-bus-im-verstehbahnhof-frstenberg_46975119895_o-sm.jpg
+  src: /files/blog/2019/07/DSC_0131.jpeg
 tags:
 - TuringBus
 - Station
@@ -37,27 +37,51 @@ Auf der Netzkonferenz Re:publica waren wir mit einem Talk vertreten. Dabei ging 
 
 ### Station #2 im Kulturzentrum Freiland, Potsdam (28. Mai, 24 TN)
 
+
+![Turing-Bus in Potsdam](/files/blog/2019/07/DSC_0059.jpg)
+*Foto: Der Turing-Bus in Potsdam. CC-0, Foto: Nikolas Becker*
+
 Nachdem wir zunächst irrtümlich eine viel jüngere, ebenfalls zufällig anwesende Gruppe von verwunderten, aber gleichzeitig sehr aufmerksamen Schüler\*innen über den Platz geführt hatten, trafen wir in Potsdam auf eine Klasse Sozialassistent\*innen der Dietrich-Bonhoeffer-Schule (Teltow). Leider wurde der Informatikunterricht der Schüler\*innen vor geraumer Zeit ersatzlos gestrichen, sodass wir mit unserem Workshopangebot besonders motiviert empfangen  wurden. Neben unserem Chatbot-Workshop boten wir den Einführungsteil unseres Arduino-Workshops („Wie entsteht ein Datensatz?“) an. Anschließend wurde von den vor Ort ansässigen Betreibern des Biolabs und der [machBar](https://machbar-potsdam.de) (Björn Huwe, Nicco Kunzmann und Martin Koll) übernommen. 
+
+
+![Turing-Bus in Potsdam](/files/blog/2019/07/DSC_0004_Im_Biolab.jpg)
+
+![Turing-Bus in Potsdam](/files/blog/2019/07/DSC_0131.jpeg)
+*Foto: Der Turing-Bus in Potsdam. CC-0, Foto: Nikolas Becker*
+
+
 
 Mit [Manja Schüle](https://www.manja-schuele.de/) und Tom Herold von [scalable minds](https://scalableminds.com/) sollte es beim Lunchtalk um die Frage gehen, was es zu wissen und zu lernen gilt, um Hypes wie KI besser zu verstehen, ob auch Berufsschüler\*innen wie unsere Gäste gut auf die digitalisierte Welt vorbereitet werden. Manja Schüle war im Wahlkampfmodus, und die Schüler\*innen beklagten schnell ganz grundsätzliche Versorgungs- und Finanzierungsprobleme. So lauschten den Ausführungen von Tom Herold, dessen Firma einst selbst Chatbots entwarf und nun Hirnzellen mittels KI-basierter Bildverarbeitung kartiert, am Ende nur noch wenige – zu diesem Zeitpunkt war den meisten wohl zumindest schon eines klar geworden: KI-Anwendungen programmieren und "saubere" Daten dafür sammeln und analysieren bedeutet mühselige, endlos lange Bildschirmarbeit. 
 
+![Turing-Bus in Lübbbenau](/files/blog/2019/07/DSC_0114_Vordergrund_Manja-Schüle.jpg)
+*Foto: Der Turing-Bus in Potsdam. CC-0, Foto: Nikolas Becker*
+
 Das [freiLand Potsdam](https://www.freiland-potsdam.de) ist ein gutes Beispiel dafür, was passieren kann, wenn die Zivilgesellschaft Freiräume bekommt und diese nutzt. Insgesamt tummeln sich übrigens über 45 Initiativen in den von industriellem Charme gezeichneten Räumlichkeiten. Wir bedanken uns bei Martin, Björn und Nicco für den tollen Tag! Bei der Lehrerin Susanne Neumann und ihren Schüler\*innen bedanken wir uns für den Besuch.
 
-Dokumentiert wurde das Ganze vom Freitag:
+Dokumentiert wurde das Ganze vom *Freitag*:
 
 * https://www.freitag.de/autoren/der-freitag/der-spion-liebt-mich
 * https://twitter.com/TuringBus/status/1139113667084148736
 
 
-### Station #3 in Lübbenau (96 (!) TN)
+### Station #3 in Lübbenau (ca. 96 (!) TN)
 
-Man könnte sagen, Lübbenau war eine Rekordstation. Gemeinsam mit Frank Thorhauer (AWO mobile offene Werkstatt für Kinder & Jugendliche "Makerkutsche"), Dirk und Paul boten wir insgesamt 5 Workshops für 124 Teilnehmende an! Ort der Station war die [Technikschule clever.Inside](http://jfvnet.de/cleverinside/) im schönen Spreewald(gurken)areal Lübbenau. 
+![Turing-Bus in Potsdam](/files/blog/2019/07/IMG_20190527_174705.jpg)
+*Foto: Wenn der Turing-Bus kaum noch auf die Straße passt, ist er angekommen. CC-0*
 
-Warum Rekordstation? Zum Beispiel, weil die Begrüßung 'open air' durchgeführt werden musste, da keiner der vorhandenen Räume groß genug für alle Teilnehmenden war. Oder weil jeder Schrittzähler marathonartige Distanzen dank der gelegentlichen Raumwechsel attestiert hätte, wäre einer verfügbar gewesen. So hat diese fantastische Station einige unserer sportmuffeligen Infonaut\*innen mit klassischer Kellerbräune aus der Reserve gelockt und mit einer 4-fachen Gurkenauswahl beim Frühstück entlohnt. 
+Man könnte sagen, Lübbenau war eine Rekordstation. Gemeinsam mit Frank Thorhauer (AWO mobile offene Werkstatt für Kinder & Jugendliche "Makerkutsche"), Dirk und Paul boten wir insgesamt 5 Workshops für ca. 96 Teilnehmende an! Ort der Station war die [Technikschule clever.Inside](http://jfvnet.de/cleverinside/) im schönen Spreewald(gurken)areal Lübbenau. 
+
+![Turing-Bus in Lübbenau](/files/blog/2019/07/TuringBus-Lubbenau-02.png)
+![Turing-Bus in Lübbenau](/files/blog/2019/07/TuringBus-Lubbenau-01.jpg)
+*Foto: Erföffnung der Superlative in Lübbenau. CC-0*
+
+Warum Rekordstation? Zum Beispiel, weil die Begrüßung 'open air' durchgeführt werden musste, da keiner der vorhandenen Räume groß genug für alle Teilnehmenden war. Oder weil jeder Schrittzähler dank der gelegentlichen Raumwechsel marathonartige Distanzen attestiert hätte, wäre einer verfügbar gewesen. So hat diese fantastische Station einige unserer sportmuffeligen Infonaut\*innen mit klassischer Monitorbräune aus der Reserve gelockt. Zum Glück waren wir dank der 4-fachen Gurkenauswahl beim Frühstück ausreichend gestärkt! 
 
 ![Gurkenlove](/files/blog/2019/06/IMG_20190528_075012.jpg)
 
-Danke an Frank!
+
+*Foto: Workshops + Podium in Lübbenau. CC-0*
+
 
 Workshops:
 
@@ -66,6 +90,10 @@ Workshops:
 * Workshop 3: KI vs. Gamer – Lasst die Spiele beginnen! – (Code  bestimmt die Welt) (Frank Thorhauer)
 * Workshop 4: Medienkompetenz mit Smart Devices – KI – natürlich künstlich!​​​​​​​ (Dirk)
 * Workshop 5: Wir bewegen Schrott (Paul).
+
+![Turing-Bus in Lübbenau](/files/blog/2019/07/TuringBus-Lubbenau-06.jpg)
+![Turing-Bus in Lübbenau](/files/blog/2019/07/TuringBus-Lubbenau-09.jpg)
+
 
 Teilnehmende Schulen: 
 
@@ -81,6 +109,14 @@ Zum Abschluss dieses Tages der Superlative ging es am Nachmittag mit einer Fishb
 * Franka Schuster (BTU, Lehrstuhl Rechnernetze und Kommunikationssysteme) 
 * Andreas Hackert (Koordinator JIM-Netzwerk Brandenburg des Landesfachverband Medienbildung Brandenburg e.V.)
 * Moderation: Dr. Stefan Ullrich (Weizenbaum Institut für die vernetzte Gesellschaft). 
+
+![Turing-Bus in Lübbenau](/files/blog/2019/07/TuringBus-Lubbenau-09.jpg)
+![Turing-Bus in Lübbenau](/files/blog/2019/07/DSC_0703.jpeg)
+
+
+
+
+Ein riesengroßes Dankeschön an [Frank](https://makerkutsche.de/) von der Makerkutsche!
 
 
 ### Station #4 auf der youcoN im Ostseebad Binz (20 TN) – Chatbots – unsere Freund\*innen 
@@ -114,4 +150,4 @@ Berichte gibt es hier:
 
 ### Station #6 in Hannover (6 TN)
 
-Auch auf der [IdeenExpo](https://www.ideenexpo.de/) haben wir am 18. Juni vorbeigeschaut und mit den wenigen Interessierten, die im Messestrom an unserem Stand innehielten, den Turing-Test frei nach AI Unplugged [\[1\]](#ref1) nachgestellt. Ein neues Party-Spiel ist geboren.
+Auch auf der [IdeenExpo](https://www.ideenexpo.de/) haben wir am 18. Juni vorbeigeschaut und mit Interessierten, die im Messestrom an unserem Stand innehielten, den Turing-Test frei nach AI Unplugged [\[1\]](#ref1) nachgestellt. Ein neues Party-Spiel ist geboren.

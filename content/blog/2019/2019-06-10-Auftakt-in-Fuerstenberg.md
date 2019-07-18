@@ -48,7 +48,6 @@ Prof. Dr. Ulrike Lucke (Gesellschaft für Informatik e.V., Professorin für Komp
 
 ![Turing-Bus in Fürstenberg](/files/blog/2019/06/turing-bus-im-verstehbahnhof-frstenberg_46975112165_o-sm.jpg)
 
-![Turing-Bus in Fürstenberg](/files/blog/2018/turing-bus-in-bernau_40502100660_o-lowres.jpg)
 Fotos: Der Turing-Bus in Fürstenberg. <a href="https://www.flickr.com/photos/okfde/albums/72157705194338012">CC-BY 4.0 Open Knowledge Foundation DE, Foto: Leonard Wolf</a>
 
 
