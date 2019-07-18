@@ -21,8 +21,6 @@ featured: blue
 
 
 
-
-
 Die Auftaktstation fand dieses Jahr am [Verstehbahnhof](https://www.verstehbahnhof.de/) in Fürstenberg (Havel) statt. Eine gute Stunde von Berlin entfernt entsteht hier gerade ein fantastisches Domizil für Jugendliche aus der Umgebung in Brandenburg und Mecklenburg-Vorpommern. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kUdoNUkL76g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -33,15 +31,19 @@ Der Verstehbahnhof wird vom gemeinnützigen [havel:lab](https://www.havellab.org
 
 ![Turing-Bus in Fürstenberg](/files/blog/2019/06/turing-bus-im-verstehbahnhof-frstenberg_46975119245_o-sm.jpg)
 
-Die Station bestand aus drei Teilen. Zum Einstieg in das abstrakte und teilweise überladene Thema Künstliche Intelligenz testeten die Teilnehmer*innen auf sechs Laptop-Stationen KI-Anwendungen (z.B. Scheere-Stein-Papier vs. KI via Webcam) unter der Fragestellung: wie intelligent sind diese Beispiele für KI? Die Antworten wurden dann im Anschluss in der Gruppe diskutiert. Im zweiten Teil untersuchten die Schülerinnen und Schüler in zwei Turing-Bus-Workshops genauer, was Künstliche Intelligenz eigentlich ausmacht, warum die Bezeichnung für die Technik dahinter gar nicht so gut passt und wo sie herkommt. Außerdem konnte die Werkstatt des Verstehbahnhofs in einem dritten Löt- und Maschinenworkshop vom Verstehbahnhof ausprobiert werden.
+Die Station bestand aus drei Teilen. Zum Einstieg in das abstrakte und teilweise überladene Thema Künstliche Intelligenz testeten die Teilnehmer*innen auf sechs Laptop-Stationen KI-Anwendungen (z.B. Scheere-Stein-Papier vs. KI via Webcam) unter der Fragestellung: wie intelligent sind diese Beispiele für KI? Die Antworten wurden dann im Anschluss in der Gruppe diskutiert. Im zweiten Teil untersuchten die Schülerinnen und Schüler in zwei Turing-Bus-Workshops genauer, was Künstliche Intelligenz eigentlich ausmacht, warum die Bezeichnung für die Technik dahinter gar nicht so gut passt und wo sie herkommt. Außerdem konnte die Werkstatt des Verstehbahnhofs in einem Löt- und Maschinenworkshop vom Verstehbahnhof ausprobiert werden.
 
 ![Turing-Bus in Fürstenberg](/files/blog/2019/06/turing-bus-im-verstehbahnhof-frstenberg_46975119895_o-sm.jpg)
 
-Grüße vom Kulturbahnhof in Biesenthal an den Verstehbahnhof überbrachte im dritten Teil am Nachmittag Prof. Dr. Wolfgang Coy (GI-Fachgruppe „Informatik und Ethik“, Professor i. R. für Informatik in Bildung und Gesellschaft an der Humboldt-Universität zu Berlin). Er nahm uns mit auf einen technikgeschichtlichen Ausflug von der Eisenbahn zur Vernetzung und Automatisierung, die die allmähliche Auflösung des Stadt-Land-Gefälles, den Bedeutungsverlust der Stadt begleiten. Prof. Dr. Ulrike Lucke (Gesellschaft für Informatik e.V., Professorin für Komplexe Multimediale Anwendungsarchitekturen an der Universität Potsdam) bestärkte in einem weiteren Impuls die Rolle kreativer Lernorte wie dem Verstehbahnhof für die Entwicklung einer mündigen Haltung in einer durch und durch digitalisierten Welt. Die Teilnehmer\*innen der Schulen in Gransee und Neustrelitz konnten in einer Fishbowl-Diskussionsrunde ihre Kommentare und Anmerkungen zum Thememfeld Künstliche Intelligenz und ländlicher Raum loswerden, an der auch Silvia Hennig (neuland21.de), Ilona Stuetz (mediale pfade, Jugend hackt) und Paula Glaser (Jugend hackt) teilnahmen. 
+![Turing-Bus in Fürstenberg](/files/blog/2019/06/turing-bus-im-verstehbahnhof-frstenberg_40923806023_o-sm.jpg)
 
+![Turing-Bus in Fürstenberg](/files/blog/2019/06/turing-bus-im-verstehbahnhof-frstenberg_40924819573_o-sm.jpg)
 
+Grüße vom Kulturbahnhof in Biesenthal an den Verstehbahnhof überbrachte im dritten Teil am Nachmittag Prof. Dr. Wolfgang Coy (GI-Fachgruppe „Informatik und Ethik“, Professor i. R. für Informatik in Bildung und Gesellschaft an der Humboldt-Universität zu Berlin). Er nahm uns mit auf einen technikgeschichtlichen Ausflug von der Eisenbahn zur Vernetzung und Automatisierung, die die allmähliche Auflösung des Stadt-Land-Gefälles, den Bedeutungsverlust der Stadt begleiten. 
 
 ![Turing-Bus in Fürstenberg](/files/blog/2019/06/turing-bus-im-verstehbahnhof-frstenberg_47101897424_o-sm.jpg)
+
+Prof. Dr. Ulrike Lucke (Gesellschaft für Informatik e.V., Professorin für Komplexe Multimediale Anwendungsarchitekturen an der Universität Potsdam) bestärkte in einem weiteren Impuls die Rolle kreativer Lernorte wie dem Verstehbahnhof für die Entwicklung einer mündigen Haltung in einer durch und durch digitalisierten Welt. Die Teilnehmer\*innen der Schulen in Gransee und Neustrelitz konnten in einer Fishbowl-Diskussionsrunde ihre Kommentare und Anmerkungen zum Thememfeld Künstliche Intelligenz und ländlicher Raum loswerden, an der auch Silvia Hennig (neuland21.de), Ilona Stuetz (mediale pfade, Jugend hackt) und Paula Glaser (Jugend hackt) teilnahmen. 
 
 ![Turing-Bus in Fürstenberg](/files/blog/2019/06/turing-bus-im-verstehbahnhof-frstenberg_40924897903_o-sm.jpg)
 
