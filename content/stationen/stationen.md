@@ -18,7 +18,7 @@ arrange: img_right
 ### 5. [youcoN](https://youpan.de/youcon2019/) in Binz: 30. Mai ([✓](/blog/2019/07/das-waren-die-ersten-stationen/))
 ### 6. [Prignitzer Technologietag](https://tgz-prignitz.de/) in Perleberg: 5. Juni ([✓](/blog/2019/07/das-waren-die-ersten-stationen/))
 ### 7. [IdeenExpo](https://ideenexpo.de) in Hannover: 18. Juni ([✓](/blog/2019/07/das-waren-die-ersten-stationen/))
-### 8. [Basteln mit Bits](/static/files/blog/2019/07/plakat-basteln-bits-einfach.png) im [Pestalozzi-Fröbel-Haus](https://www.pfh-berlin.de/) in Berlin-Schöneberg 24./25. Juli
+### 8. [Basteln mit Bits](/static/files/blog/2019/07/plakat-basteln-bits-einfach.pdf) im [Pestalozzi-Fröbel-Haus](https://www.pfh-berlin.de/) in Berlin-Schöneberg 24./25. Juli
 ### 9. [Otto-Hahn-Gymnasium](http://ohg-gf.de/), Gifhorn (NDS): 3. September
 ### 10. [Wilhelm-Busch-Gymnasium](wilhelm-busch-gymnasium) in Stadthagen (NDS): 4. September
 ### 11. [Ratsgymnasium Minden](http://www.ratsgymnasium.de/) (NRW): 5. September
