@@ -64,7 +64,7 @@ Dokumentiert wurde das Ganze vom *Freitag*:
 * https://twitter.com/TuringBus/status/1139113667084148736
 
 
-### Station #3 in Lübbenau (ca. 96 (!) TN)
+### Station #3 in Lübbenau (ca. 97 (!) TN)
 
 ![Turing-Bus in Potsdam](/files/blog/2019/07/IMG_20190527_174705.jpg)
 *Foto: Wenn der Turing-Bus kaum noch auf die Straße passt, ist er angekommen. CC-0*
@@ -99,7 +99,8 @@ Teilnehmende Schulen:
 * AWO Sozialassistenten: 37 Schüler\*innen
 * Klasse B 1/17: 18 Schüler;  (Alter: 17 Jahre bis 22 Jahre) und 
 * Klasse B 2/17: 19 Schüler; (Alter: 17 Jahre bis 25 Jahre).
-* Paul-Fahlisch-Gymnasium: 25 Leute
+* Jenaplanschule Lübbenau (5. bis 6. Klasse): 10 Schüler\*innen (Alter: 10-12 Jahre)
+* Paul-Fahlisch-Gymnasium: 25 Schüler\*innen
 
 Zum Abschluss dieses Tages der Superlative ging es am Nachmittag mit einer Fishbowl-Diskussion zum Thema „Alexa und Siri schlagen zurück – die Rache der Sprachassistenten“ am Jenaplanhaus weiter. Mit dabei waren:
 
