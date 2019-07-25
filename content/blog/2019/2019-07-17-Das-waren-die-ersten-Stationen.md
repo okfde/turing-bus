@@ -64,7 +64,7 @@ Dokumentiert wurde das Ganze vom *Freitag*:
 * https://twitter.com/TuringBus/status/1139113667084148736
 
 
-### Station #3 in Lübbenau (ca. 97 (!) TN)
+### Station #3 in Lübbenau (97 (!) TN)
 
 ![Turing-Bus in Potsdam](/files/blog/2019/07/IMG_20190527_174705.jpg)
 *Foto: Wenn der Turing-Bus kaum noch auf die Straße passt, ist er angekommen. CC-0*
