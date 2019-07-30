@@ -1,5 +1,5 @@
 ---
-title: "Auftaktstation am Verstehbahnhof / Jugend hackt Lab in Fürstenberg"
+title: "Auftaktstation am Verstehbahnhof / Jugend hackt-Lab in Fürstenberg"
 subtitle: "Ein Rückblick auf die Eröffnungsstation der Tour 2019 (16. Mai, 35 TN)"
 authors:
 - Turing-Bus-Team
@@ -26,11 +26,11 @@ Die Auftaktstation fand dieses Jahr am [Verstehbahnhof](https://www.verstehbahnh
 
 
 
-Der Verstehbahnhof wird vom gemeinnützigen [havel:lab](https://www.havellab.org/) getragen und ist ein Makerspace und Veranstaltungsort für junge Menschen. Neben Workshops, Projekttagen und -wochen hat das 'gallische Digitaldorf' auch Fortbildungen für Lehrkräfte und themenspezifische Veranstaltungen für die Öffentlichkeit im Programm. Seit neuestem ist der Verstehbahnhof außerdem eines der ersten zwei [Jugend hackt Labs](https://jugendhackt.org/lab-vorstellung-der-verstehbahnhof-in-fuerstenberg-havel/)!  
+Der Verstehbahnhof wird vom gemeinnützigen [havel:lab](https://www.havellab.org/) getragen und ist ein Makerspace und Veranstaltungsort für junge Menschen. Neben Workshops, Projekttagen und -wochen hat das 'gallische Digitaldorf' auch Fortbildungen für Lehrkräfte und themenspezifische Veranstaltungen für die Öffentlichkeit im Programm. Seit neuestem ist der Verstehbahnhof außerdem eines der ersten zwei [Jugend hackt-Labs](https://jugendhackt.org/lab-vorstellung-der-verstehbahnhof-in-fuerstenberg-havel/)!  
 
 ![Turing-Bus in Fürstenberg](/files/blog/2019/06/turing-bus-im-verstehbahnhof-frstenberg_46975119245_o-sm.jpg)
 
-Die Station bestand aus drei Teilen. Zum Einstieg in das abstrakte und teilweise überladene Thema Künstliche Intelligenz testeten die Teilnehmer*innen auf sechs Laptop-Stationen KI-Anwendungen (z.B. Scheere-Stein-Papier vs. KI via Webcam) unter der Fragestellung: wie intelligent sind diese Beispiele für KI? Die Antworten wurden dann im Anschluss in der Gruppe diskutiert. Im zweiten Teil untersuchten die Schülerinnen und Schüler in zwei Turing-Bus-Workshops genauer, was Künstliche Intelligenz eigentlich ausmacht, warum die Bezeichnung für die Technik dahinter gar nicht so gut passt und wo sie herkommt. Außerdem konnte die Werkstatt des Verstehbahnhofs in einem Löt- und Maschinenworkshop vom Verstehbahnhof ausprobiert werden.
+Die Station bestand aus drei Teilen. Zum Einstieg in das abstrakte und teilweise überladene Thema Künstliche Intelligenz testeten die Teilnehmer\*innen auf sechs Laptop-Stationen KI-Anwendungen (z.B. Schere-Stein-Papier vs. KI via Webcam) unter der Fragestellung: wie intelligent sind diese Beispiele für KI? Die Antworten wurden dann im Anschluss in der Gruppe diskutiert. Im zweiten Teil untersuchten die Schülerinnen und Schüler in zwei Turing-Bus-Workshops genauer, was Künstliche Intelligenz eigentlich ausmacht, warum die Bezeichnung für die Technik dahinter gar nicht so gut passt und wo sie herkommt. Außerdem konnte die Werkstatt des Verstehbahnhofs in einem Löt- und Maschinenworkshop vom Verstehbahnhof ausprobiert werden.
 
 ![Turing-Bus in Fürstenberg](/files/blog/2019/06/turing-bus-im-verstehbahnhof-frstenberg_46975119895_o-sm.jpg)
 
@@ -58,7 +58,7 @@ Wie das ganze aussah, kann auf Flickr nachverfolgt werden:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/okfde/albums/72157705194338012" title="Turing-Bus im Verstehbahnhof"><img src="https://live.staticflickr.com/65535/47838179942_707aa3dcc7_c.jpg" width="800" height="534" alt="Turing-Bus im Verstehbahnhof"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
 
-Wir danken besonders Eva, Daniel und den Lehrer\*innen Jens Richter-Mendau, Martina Ridt und Julia Senft sowie den Schüler\*innen des Neustrelitzer und des Granseer Gymnasiums.
+Wir danken besonders Eva, Daniel und den Lehrer\*innen Jens Richter-Mendau, Martina Rindt und Julia Senft sowie den Schüler\*innen des Neustrelitzer und des Granseer Gymnasiums.
 
 Berichte von anderen gibt's hier:
 
