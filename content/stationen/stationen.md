@@ -29,6 +29,6 @@ arrange: img_right
 ### 16. Berlin: 16. Oktober
 ### 17. [KI und wir*](https://ki-convention.com), Festung Mark in Magdeburg: November
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="http://umap.openstreetmap.fr/de/map/turing-bus-2-halbjahr_353967?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/de/map/turing-bus-2-halbjahr_353967">Vollbildanzeige</a></p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/de/map/turing-bus-2-halbjahr_353967?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/de/map/turing-bus-2-halbjahr_353967">Vollbildanzeige</a></p>
 <br>
 Im Blog findet ihr Berichte, Filme und Bilder von [unserer Auftaktstation](/blog/2019/06/auftakt-in-fuerstenberg/) und den [Stationen im Mai und Juni](/blog/2019/07/das-waren-die-ersten-stationen/).
