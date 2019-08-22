@@ -25,8 +25,8 @@ arrange: img_right
 ### 12. [Gymnasium Hermeskeil](https://www.gymherm.de/) (RLP): 10. September
 ### 13. [Siebenpfeiffer-Gymnasium Kusel](https://www.siebenpfeiffer-gymnasium.de/index.php?id=62) (RLP): 11. September
 ### 14. [Hans-Purrmann-Gymnasium](https://wp.hpg-speyer.de/) in Speyer (RLP): 12. September
-### 15. Bonn (NRW): 10. Oktober
-### 16. Berlin: 16. Oktober
+### 15. [Deutsches Museum Bonn](https://www.deutsches-museum.de/bonn/information/) (NRW): 10. Oktober
+### 16. [Kino Babylon](https://babylonberlin.eu/) in Berlin: 16. Oktober
 ### 17. [KI und wir*](https://ki-convention.com), Festung Mark in Magdeburg: November
 <br>
 
