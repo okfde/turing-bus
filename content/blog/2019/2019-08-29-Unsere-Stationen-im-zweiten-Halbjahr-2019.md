@@ -1,5 +1,5 @@
 ---
-title: "Znsere Tour-Stationen im 2. Halbjahr 2019"
+title: "Unsere Tour-Stationen im 2. Halbjahr 2019"
 subtitle: "Ein Ausblick auf das restliche Jahr"
 authors:
 - Turing-Bus-Team
