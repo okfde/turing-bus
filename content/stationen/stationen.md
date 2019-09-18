@@ -19,9 +19,9 @@ arrange: img_right
 ### 6. [Prignitzer Technologietag](https://tgz-prignitz.de/) in Perleberg: 5. Juni ([✓](/blog/2019/07/das-waren-die-ersten-stationen/))
 ### 7. [IdeenExpo](https://ideenexpo.de) in Hannover: 18. Juni ([✓](/blog/2019/07/das-waren-die-ersten-stationen/))
 ### 8. [Basteln mit Bits](/files/blog/2019/07/plakat-basteln-bits-einfach.pdf) im [Pestalozzi-Fröbel-Haus](https://www.pfh-berlin.de/) in Berlin-Schöneberg: 24./25. Juli (✓)
-### 9. [Otto-Hahn-Gymnasium](http://ohg-gf.de/) in Gifhorn (NDS): 3. September (✓)
-### 10. [Wilhelm-Busch-Gymnasium](https://wilhelm-busch-gymnasium.de/) in Stadthagen (NDS): 4. September (✓)
-### 11. [Ratsgymnasium Minden](http://www.ratsgymnasium.de/) (NRW): 5. September (✓)
+### 9. [Otto-Hahn-Gymnasium](http://ohg-gf.de/) in Gifhorn (NDS): 3. September ([✓](https://turing-bus.de/blog/2019/09/gifhorn-stadthagen-minden/))
+### 10. [Wilhelm-Busch-Gymnasium](https://wilhelm-busch-gymnasium.de/) in Stadthagen (NDS): 4. September ([✓](https://turing-bus.de/blog/2019/09/gifhorn-stadthagen-minden/))
+### 11. [Ratsgymnasium Minden](http://www.ratsgymnasium.de/) (NRW): 5. September ([✓](https://turing-bus.de/blog/2019/09/gifhorn-stadthagen-minden/))
 ### 12. [Gymnasium Hermeskeil](https://www.gymherm.de/) (RLP): 10. September
 ### 13. [Siebenpfeiffer-Gymnasium Kusel](https://www.siebenpfeiffer-gymnasium.de/index.php?id=62) (RLP): 11. September
 ### 14. [Hans-Purrmann-Gymnasium](https://wp.hpg-speyer.de/) in Speyer (RLP): 12. September

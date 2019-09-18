@@ -106,7 +106,7 @@ Unsere Station in Minden fand dank Ilka Barton (Haus der Bildung) und Lukas Ophe
 ![Turing-Bus in Minden](/files/blog/2019/09-03/DSC_0709.JPG)
 ![Turing-Bus in Minden](/files/blog/2019/09-03/DSC_0595.JPG)
 ![Turing-Bus in Minden](/files/blog/2019/09-03/DSC_0640.JPG)
-*senseBox Kabelage. CC BY-SA 4.0, Fotos: Bela Seeger*
+*senseBox Workshop. CC BY-SA 4.0, Fotos: Bela Seeger*
 
 ![Turing-Bus in Minden](/files/blog/2019/09-03/DSC_0631.JPG)
 ![Turing-Bus in Minden](/files/blog/2019/09-03/DSC_0628.JPG)
