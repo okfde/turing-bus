@@ -2,7 +2,7 @@
 title: "Rückblick: Unsere Stationen in Gifhorn, Stadthagen und Minden (September 2019)"
 subtitle: "Der Erste Teil unserer September-Tour"
 authors:
-- Turing-Bus-Team
+- Bela Seeger
 date: 2019-09-18
 image:
   src: /files/blog/2019/09-03/DSC_0735.JPG
