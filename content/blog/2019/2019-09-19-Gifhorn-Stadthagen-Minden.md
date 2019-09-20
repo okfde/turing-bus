@@ -32,13 +32,13 @@ In den ersten zwei Septemberwochen haben wir insgesamt sechs Stationen durchgef�
 ![Turing-Bus in Gifhorn](/files/blog/2019/09-01/DSC_0030.JPG)
 *'Roboter' Max Voigt wird vom Publikum programmiert, um ein Wasser einzugießen. CC BY-SA 4.0, Foto: Bela Seeger*
 
-In Gifhorn wurden wir herzlich von Antje Silies (Informatiklehrerin des Otto-Hahn-Gymnasiums) empfangen, die uns mit ihrem Bewerbungsschreiben bewegt hatte, den Weg nach Gifhorn mit insgesamt fünf Workshops im Gepäck auf uns zu nehmen. Mit dabei waren neben den beiden Turing-Bus-Formaten 'Wie programmiere ich einen Chatbot' (Andrea Knaut, Kathinka Richter) und 'Wie entsteht ein Datensatz' (Maximilian Voigt) Prof Dr. Debora Weber-Wulff mit einem [Gewissensbits](https://gewissensbits.gi.de/)-Workshop, Rainer Rehak ([FIfF](https://www.fiff.de/)) mit dem Robotergericht und Dr. Olaf Thiele ([ainblick GmbH](https://ainblick.de/)) mit einem Workshop zu neuronalen Netzen.
+In Gifhorn wurden wir herzlich von Antje Silies (Informatiklehrerin des Otto-Hahn-Gymnasiums) empfangen, die uns mit ihrem Bewerbungsschreiben bewegt hatte, den Weg nach Gifhorn mit insgesamt fünf Workshops im Gepäck auf uns zu nehmen. Mit dabei waren neben den beiden Turing-Bus-Formaten 'Wie programmiere ich einen Chatbot' (Andrea Knaut, Kathinka Richter) und 'Wie entsteht ein Datensatz' (Maximilian Voigt) Prof. Dr. Debora Weber-Wulff mit einem [Gewissensbits](https://gewissensbits.gi.de/)-Workshop, Rainer Rehak ([FIfF](https://www.fiff.de/)) mit dem Robotergericht und Dr. Olaf Thiele ([ainblick GmbH](https://ainblick.de/)) mit einem Workshop zu neuronalen Netzen.
 
 ![Turing-Bus in Gifhorn](/files/blog/2019/09-01/DSC_0136.JPG)
 *v.l.n.r.: Antje Silies, Kathinka Richter, Dr. Debora Weber-Wulff, Rainer Rehak, Andrea Knaut. CC BY-SA 4.0, Foto: Bela Seeger*
 
 
-Im Anschluss an die Workshops wurden die Workshopergebnisse von den Teilnehmenden vorgestellt und dann (geleitet von Rainer und Debbie) im Plenum diskutiert. Dabei ging es auch um die Potenziale und Risiken Künstlicher Intelligenz in Gegenwart und Zukunft: bei welchen Aufgaben kann eine KI hilfreich sein und wo birgt ihr Einsatz Gefahren?   
+Im Anschluss an die Workshops wurden die Workshopergebnisse von den Teilnehmenden vorgestellt und dann (geleitet von Rainer und Debora) im Plenum diskutiert. Dabei ging es auch um die Potenziale und Risiken Künstlicher Intelligenz in Gegenwart und Zukunft: bei welchen Aufgaben kann eine KI hilfreich sein und wo birgt ihr Einsatz Gefahren?   
 
 
 ![Turing-Bus in Gifhorn](/files/blog/2019/09-01/DSC_0151.JPG)
