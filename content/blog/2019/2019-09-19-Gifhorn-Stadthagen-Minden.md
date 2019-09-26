@@ -86,7 +86,7 @@ Mehr als einmal wurden die Autoren der vorgetragenen Gedichte im Publikum heiß 
 *BOT or NOT. CC BY-SA 4.0, Fotos: Nikolas Becker*
 
 
-Ein großes Danke an das Team von BOT or NOT sowie die angereisten Poetry Slammer, die das Publikum ins Grübeln brachten. 
+Ein großes Danke an Isabell Stahlhut für die Unterstützung bei der Organisation und an das Team von BOT or NOT sowie die angereisten Poetry Slammer, die das Publikum ins Grübeln brachten. 
 
 
  
