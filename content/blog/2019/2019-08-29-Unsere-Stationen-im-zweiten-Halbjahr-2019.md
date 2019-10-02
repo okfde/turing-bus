@@ -116,8 +116,6 @@ Die Abschluss-Station unserer September-Tour bestreiten wir gemeinsam mit dem Be
 ![Turing-Bus in Speyer](/files/blog/2019/08/speyer.png)
 
 
-Über die Termine, die dann noch kommen, erzählen wir euch ein anderes Mal mehr. 
-
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/de/map/turing-bus-2019_353967?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false&datalayers=956845%2C956681#6/51.771/10.701"></iframe>
 
 

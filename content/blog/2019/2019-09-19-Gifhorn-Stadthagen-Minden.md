@@ -1,6 +1,6 @@
 ---
-title: "Rückblick: Unsere Stationen in Gifhorn, Stadthagen und Minden (September 2019)"
-subtitle: "Der Erste Teil unserer September-Tour"
+title: "Rückblick Teil 2: Unsere Stationen in Gifhorn, Stadthagen und Minden (September 2019)"
+subtitle: "Der erste Teil unserer September-Tour"
 authors:
 - Bela Seeger
 date: 2019-09-18
@@ -20,8 +20,9 @@ featured: blue
 
 ---
 
-In den ersten zwei Septemberwochen haben wir insgesamt sechs Stationen durchgeführt. Hier berichten wir über die ersten drei. 
+### Fotos unserer Septembertour gibt es in diesem [Album auf flickr](https://www.flickr.com/photos/okfde/albums/72157711159633812)!
 
+In den ersten zwei Septemberwochen haben wir insgesamt sechs Stationen durchgeführt. Hier berichten wir über die ersten drei. 
 
 ![Turing-Bus in Gifhorn](/files/blog/2019/09-01/DSC_0065.JPG)
 *Alt trifft neu: Arduino-getriebene Lichterkette mit Overhead-Projektor. CC BY-SA 4.0, Foto: Bela Seeger*

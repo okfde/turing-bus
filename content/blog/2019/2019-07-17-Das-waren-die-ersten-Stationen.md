@@ -1,5 +1,5 @@
 ---
-title: "Zwischenstand der Tour 2019 + neue Stationen veröffentlicht"
+title: "Rückblick Teil 1: Re:publica, Kulturzentrum FreiLand, Verstehbahnhof Fürstenberg, Technikschule Lübbernau, youcoN, Perleberger Technologietage und IdeenExpo"
 subtitle: "Ein Rückblick auf die erste Jahreshälfte mit Stationen in Fürstenberg, Potsdam, Lübbenau, Binz und Perleberg sowie ein Ausblick auf das restliche Jahr"
 authors:
 - Turing-Bus-Team
