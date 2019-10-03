@@ -33,7 +33,7 @@ In den ersten zwei Septemberwochen haben wir insgesamt sechs Stationen durchgef�
 ![Turing-Bus in Gifhorn](/files/blog/2019/09-04/DSC_0002.JPG)
 *Der Turing-Bus in Hermeskeil. CC BY-SA 4.0, Foto: Bela Seeger*
 
-Nach Hermeskeil brachte uns Herr Dr. Schillo, der selbst in der Vergangenheit beireits am DFKI aktiv war und heute am Gymnasium Hermeskeil Informatik unterrichtet. Nach eingehendem Austausch über die projezierten und tatsächlichen Potenziale Künstlicher Intelligenz am Vorabend begann unsere erste Station in der zweiten Septemberwoche mit malerischem Morgennebel. Am Vormittag boten wir unsere beiden Stammworkshops für die SuS des Informatikleistungskurses an. Am Nachmittag gab es das Stationen-lernen für insgesamt 40 SuS aus dem Informatik-Wahlfachbereich. Dabei testen die Teilnehmenden verschiedene KI-Applikatonen wie z.B. [Stein-Schere-Paper vs. AI](https://tenso.rs/demos/rock-paper-scissors/) und bewerten die 'Intelligenz' der jeweiligen Tools. Darauf aufbauend entsteht eine Diskussion, bei der die Relativität des Intelligenzbegriffs deutlich wird.
+Nach Hermeskeil brachte uns Herr Dr. Schillo, der selbst in der Vergangenheit bereits am DFKI aktiv war und heute am Gymnasium Hermeskeil Informatik unterrichtet. Nach eingehendem Austausch über die projizierten und tatsächlichen Potenziale Künstlicher Intelligenz am Vorabend begann unsere erste Station in der zweiten Septemberwoche mit malerischem Morgennebel. Am Vormittag boten wir unsere beiden Stammworkshops für die SuS des Informatikleistungskurses an. Am Nachmittag gab es das Stationen-lernen für insgesamt 40 SuS aus dem Informatik-Wahlfachbereich. Dabei testen die Teilnehmenden verschiedene KI-Applikatonen wie z.B. [Stein-Schere-Paper vs. AI](https://tenso.rs/demos/rock-paper-scissors/) und bewerten die 'Intelligenz' der jeweiligen Tools. Darauf aufbauend entsteht eine Diskussion, bei der die Relativität des Intelligenzbegriffs deutlich wird.
 
 Vielen Dank an Herrn Schillo und die tollen Teilnehmenden! 
 
@@ -59,7 +59,7 @@ Nicht nur war Kusel eine tolle Station, auch die landschaftliche Umgebung und di
 *Workshops in Kusel. CC BY-SA 4.0, Fotos: Bela Seeger* 
 
 ### 12. September: [Hans-Purrmann-Gymnasium](https://wp.hpg-speyer.de/) in Speyer (RLP) 
-**95 Teilnehmende**
+**104 Teilnehmende**
 ![Turing-Bus in Speyer](/files/blog/2019/09-06/DSC_0441.JPG)
 *Turing-Bus meets Begeisterbus in Speyer. CC BY-SA 4.0, Fotos: Bela Seeger* 
 
@@ -68,10 +68,10 @@ Die Abschluss-Station unserer September-Tour fand in Speyer statt. Hier konnten 
 ![Turing-Bus in Speyer](/files/blog/2019/09-06/DSC_0340.JPG)
 *Turing-Bus meets Begeisterbus in Speyer. CC BY-SA 4.0, Fotos: Bela Seeger* 
 
-Den Tag beschlossen wir mit einer Podiumsdiskussion zum Thema „KI – what the hype?". Mit dabei sind Christine Regitz (GI-Vizepräsidentin, Aufsichtsrätin SAP) und Prof. Dr. Christina Class (Ernst-Abbe-Hochschule Jena, Sprecherin des GI-Fachbereichs „Informatik und Gesellschaft“). Vielen Dank an Frau Hänßle-Schardt, die trotz umfangreicher Renovierungsarbeiten im Gebäude alle Workshops mit Räumen versorgt hat.  
+Den Tag beschlossen wir mit einer Podiumsdiskussion zum Thema „KI – what the hype?". Mit dabei waren Christine Regitz (GI-Vizepräsidentin, Aufsichtsrätin SAP) und Prof. Dr. Christina Class (Ernst-Abbe-Hochschule Jena, Sprecherin des GI-Fachbereichs „Informatik und Gesellschaft“). Vielen Dank an Frau Hänßle-Schardt, die trotz umfangreicher Renovierungsarbeiten im Gebäude alle Workshops mit Räumen versorgt hat.  
 
 ![Turing-Bus in Speyer](/files/blog/2019/09-06/DSC_0369.JPG)
-*Workshop: Sonderangebote – oder wie mit Hilfe von Algorithmen und KI das Geld aus unserer Tasche gezogen werden kann" (Tobias Gäckle-Brauchler, Medienpädagoge). CC BY-SA 4.0, Foto: Bela Seeger* 
+*Workshop: „Sonderangebote – oder wie mit Hilfe von Algorithmen und KI das Geld aus unserer Tasche gezogen werden kann" (Tobias Gäckle-Brauchler, Medienpädagoge). CC BY-SA 4.0, Foto: Bela Seeger* 
 
 ![Turing-Bus in Speyer](/files/blog/2019/09-06/DSC_0381.JPG)
 *Workshop: „Was ist eigentlich Making?" (Steffen Haschler & Co, Begeisterhaus). CC BY-SA 4.0, Foto: Bela Seeger* 
