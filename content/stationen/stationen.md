@@ -22,12 +22,13 @@ arrange: img_right
 ### 9. [Otto-Hahn-Gymnasium](http://ohg-gf.de/) in Gifhorn (NDS): 3. September ([✓](https://turing-bus.de/blog/2019/09/gifhorn-stadthagen-minden/))
 ### 10. [Wilhelm-Busch-Gymnasium](https://wilhelm-busch-gymnasium.de/) in Stadthagen (NDS): 4. September ([✓](https://turing-bus.de/blog/2019/09/gifhorn-stadthagen-minden/))
 ### 11. [Ratsgymnasium Minden](http://www.ratsgymnasium.de/) (NRW): 5. September ([✓](https://turing-bus.de/blog/2019/09/gifhorn-stadthagen-minden/))
-### 12. [Gymnasium Hermeskeil](https://www.gymherm.de/) (RLP): 10. September
-### 13. [Siebenpfeiffer-Gymnasium Kusel](https://www.siebenpfeiffer-gymnasium.de/index.php?id=62) (RLP): 11. September
-### 14. [Hans-Purrmann-Gymnasium](https://wp.hpg-speyer.de/) in Speyer (RLP): 12. September
-### 15. [Deutsches Museum Bonn](https://www.deutsches-museum.de/bonn/information/) (NRW): 10. Oktober
-### 16. [Kino Babylon](https://babylonberlin.eu/) in Berlin: 16. Oktober
-### 17. [KI und wir*](https://ki-convention.com), Festung Mark in Magdeburg: November
+### 12. [Gymnasium Hermeskeil](https://www.gymherm.de/) (RLP): 10. September ([✓](https://turing-bus.de/blog/2019/10/hermeskeil-kusel-speyer/))
+### 13. [Siebenpfeiffer-Gymnasium Kusel](https://www.siebenpfeiffer-gymnasium.de/index.php?id=62) (RLP): 11. September ([✓](https://turing-bus.de/blog/2019/10/hermeskeil-kusel-speyer/))
+### 14. [Hans-Purrmann-Gymnasium](https://wp.hpg-speyer.de/) in Speyer (RLP): 12. September ([✓](https://turing-bus.de/blog/2019/10/hermeskeil-kusel-speyer/))
+### 15. [Deutsches Museum Bonn](https://www.deutsches-museum.de/bonn/information/) (NRW): 10. Oktober (✓)
+### 16. [Kino Babylon](https://babylonberlin.eu/) in Berlin: 16. Oktober (✓)
+### 17. [John-Lennon-Gymnasium](https://www.jlgym-berlin.de/jlg/) in Berlin: 4. November
+### 18. [KI und wir*](https://ki-convention.com), Festung Mark in Magdeburg: 23. November
 <br>
 
 Unsere Tour-Karte 2019:
@@ -35,3 +36,5 @@ Unsere Tour-Karte 2019:
 
 <br>
 Im Blog findet ihr Berichte, Filme und Bilder von [unserer Auftaktstation](/blog/2019/06/auftakt-in-fuerstenberg/) und den [Stationen im Mai und Juni](/blog/2019/07/das-waren-die-ersten-stationen/).
+
+

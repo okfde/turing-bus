@@ -20,7 +20,7 @@ parallax1: '/files/blog/2019/05/verstehbahnhof-turing-bus-001.jpg'
 
 #Section 4 Mitmachen
 
-mitmachen: 'An alle Interessierten: schon jetzt haben uns mehr Anfragen erreicht, als wir im Rahmen unserer diesjährigen Tour bedienen können. Schreiben Sie uns dennoch, um auf unsere Nachrückerliste zu kommen und um Ihr Interesse an unserem Angebot zu bekunden. Dies hilft uns bei der Verstetigung unseres Projektes!'
+mitmachen: 'Im Laufe unserer Tour haben wir drei Open Educational Resources (OER) entwickelt und ausgebaut.'
 mitmachenimg: '/okf/profil/profil_teaser_1.jpg'
 
 ---

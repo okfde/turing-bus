@@ -13,4 +13,4 @@ heroSubHeading: 'Wie versprochen erweitern wir unser Angebot dieses Jahr auf Off
 heroBackground: '/files/blog/2018/126-FW7_6972.jpg'
 ---
 
-Wie versprochen erweitern wir unser Angebot dieses Jahr auf Offene Werkstätten, Hackspaces und Fablabs um unseren Teilnehmer*innen nachhaltige Anlaufpunkte in die Welt des digitalen Weltverbesserns zu eröffnen. Wir sind außerdem auch auf einigen spannenden Veranstaltungen unterwegs um unser Angebot zu verbreiten und Gleichgesinnte anzutreffen.
+Dieses Jahr haben wir unser Angebot auf Offene Werkstätten, Hackspaces und Fablabs erweitert um unseren Teilnehmer*innen nachhaltige Anlaufpunkte in die Welt des digitalen Weltverbesserns zu eröffnen. Wir sind außerdem auch auf einigen spannenden Veranstaltungen unterwegs um unser Angebot zu verbreiten und Gleichgesinnte anzutreffen.

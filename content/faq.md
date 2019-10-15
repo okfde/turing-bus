@@ -1,7 +1,7 @@
 ---
 layout: mitmachen
-title: Mitmachen
-blurb: Mitmachen
+title: FAQ
+blurb: FAQ
 meta: Beim Turing-Bus dabei sein!
 img_header: /files/blog/2018/turing-bus-in-bernau_41586416744_o-lowres.jpg
 img: /files/blog/2018/turing-bus-in-bernau_41586416744_o-lowres.jpg
@@ -21,15 +21,7 @@ stats:
 ---
 
 
-### An alle Interessierten: schon jetzt haben uns mehr Anfragen erreicht, als wir im Rahmen unserer diesjährigen Tour bedienen können. Schreiben Sie uns dennoch jetzt an [info@turing-bus.de](mailto:info@turing-bus.de), um auf unsere Nachrückerliste zu kommen und um Ihr Interesse an unserem Angebot zu bekunden. Dies hilft uns bei der Verstetigung unseres Projektes!
-
-
-Ihre Nachricht sollte enthalten:
-
-* Schule / Ort
-* Anzahl / Alter der Schüler*innen
-* Bildungsstand in Sachen Informatik (kein Muss)
-* Falls vorhanden: mögliche Zeitfenster für die Station (i.d.R. halber Tag)
+### WICHTIGER HINWEIS: Für das Jahr 2019 ist der Turing-Bus leider ausgebucht.
 
 ## [tl;dr](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read)
 
