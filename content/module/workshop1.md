@@ -14,6 +14,7 @@ arrange: img_right
 
 Die Diskussion um Künstliche Intelligenz dreht sich oft vorrangig um Anwendungsmöglichkeiten und Zukunftspotentiale. Seltener wird über ihren Treibstoff gesprochen: Daten. Wie ein Datensatz entsteht, wie man mithilfe von Sensoren selbst Daten erstellen kann und welche schwerwiegenden Folgen ein Datensatz von niedriger Qualität haben kann, wird hier anhand von Hands-On-Formaten nachvollziehbar. In diesem Modul erstellen wir Datensätze mithilfe von Mikrocontrollern (Arduinos).
 
+Das folgende Bildungsmaterial ist hier zu finden: [https://hackmd.okfn.de/s/SkWBMrcPB](https://hackmd.okfn.de/s/SkWBMrcPB)
+
 <iframe width="100%" height="1500" src="https://hackmd.io/1oeg-IX6Ts-KWZz8M891QQ" frameborder="0"></iframe>
 
-<iframe src="https://hackmd.okfn.de/s/SkWBMrcPB"></iframe>
