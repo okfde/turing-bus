@@ -21,7 +21,7 @@ stats:
 ---
 
 
-### WICHTIGER HINWEIS: Für das Jahr 2019 ist der Turing-Bus leider ausgebucht.
+### Für das Jahr 2019 ist der Turing-Bus ausgebucht, Anfragen für 2020 können an [info@turing-bus.de](mailto:info@turing-bus.de) versendet werden.
 
 ## [tl;dr](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read)
 
