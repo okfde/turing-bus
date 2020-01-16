@@ -45,7 +45,7 @@ Zu jeder Station sind eigene Blogposts verfasst worden. Diese sind unter [https:
 * rbb Nachrichten - Brandenburg Aktuell  06.05.2019 19:30 Uhr
 * [https://gymnasiumperleberg.com/2019/06/07/turing-bus-besuchte-den-perleberger-technologietag-2019/](https://gymnasiumperleberg.com/2019/06/07/turing-bus-besuchte-den-perleberger-technologietag-2019/)
 * Youthmag - Die Jugendredaktion der Jungen Presse. 30.05.2019. [https://youthmag.de/youcon-2019/wann-wird-ki-menschlich_3569/](https://youthmag.de/youcon-2019/wann-wird-ki-menschlich_3569/) 
-* Der Freitag Nr 24. "Der Spion liebt mich", S. 27,13.06.2019
+* Der Freitag Nr 24. "Der Spion liebt mich", S. 27, 13.06.2019. (und [https://www.freitag.de/autoren/der-freitag/der-spion-liebt-mich](online))
 * Aller Zeitung. "Was OHG-Schüler über Künstliche Intelligenz lernen" 03.09.2019 [https://www.waz-online.de/Gifhorn/Gifhorn-Stadt/Turing-Bus-bringt-das-Thema-Kuenstliche-Intelligenz-ans-Gifhorner-OHG](https://www.waz-online.de/Gifhorn/Gifhorn-Stadt/Turing-Bus-bringt-das-Thema-Kuenstliche-Intelligenz-ans-Gifhorner-OHG) 
 * Gifhorner Rundschau: "Gifhorner Gymnasiasten diskutieren über Künstliche Intelligenz" 03.09.2019 [https://www.gifhorner-rundschau.de/gifhorn/article226979717/Gifhorner-Gymnasiasten-diskutieren-ueber-Kuenstliche-Intelligenz.html](https://www.gifhorner-rundschau.de/gifhorn/article226979717/Gifhorner-Gymnasiasten-diskutieren-ueber-Kuenstliche-Intelligenz.html) 
 * idw online. Turing-Bus besucht Niedersachsen, NRW und Rheinland-Pfalz im September 03.09.2019 [https://idw-online.de/de/news722850](https://idw-online.de/de/news722850) 
