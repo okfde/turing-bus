@@ -1,5 +1,5 @@
 ---
-title: Workshop 3. Gewissensbits – Ethische Fallbeispiel der Künstlichen Intelligenz
+title: Workshop 3. Gewissensbits – Ethische Fallbeispiele der Künstlichen Intelligenz
 weight: 4
 
 img:

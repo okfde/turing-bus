@@ -6,7 +6,6 @@ meta: Presseberichte
 ### Anfragen
 Presseanfragen können an [info@turing-bus.de](mailto:info@turing-bus.de) gestellt werden. 
 
-
 ### Videos
 
 Mit dem Turing-Bus auf den Spuren Künstlicher Intelligenz / Gesellschaft für Informatik
@@ -28,6 +27,18 @@ re:publica 2019 – Mit dem Turing-Bus durch die Kleinstadtgalaxie / re:publica
 Der Turing-Bus am Verstehbahnhof in Fürstenberg! / OKF DE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kUdoNUkL76g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Fotos
+
+Turing-Bus September-Tour: https://flic.kr/s/aHsmHqGNhu
+
+Turing-Bus im Verstehbahnhof: https://flic.kr/s/aHsmykz6EU
+
+Turing Bus Abschlussveranstaltung im Planetarium am Insulaner: https://flic.kr/s/aHskSWbRN5
+
+Turing-Bus in Bernau am Paulus-Praetorius-Gymnasium: https://flic.kr/s/aHskyz7yaM
+
 
 
 
