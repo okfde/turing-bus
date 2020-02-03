@@ -27,8 +27,8 @@ arrange: img_right
 ### 14. [Hans-Purrmann-Gymnasium](https://wp.hpg-speyer.de/) in Speyer (RLP): 12. September ([✓](https://turing-bus.de/blog/2019/10/hermeskeil-kusel-speyer/))
 ### 15. [Deutsches Museum Bonn](https://www.deutsches-museum.de/bonn/information/) (NRW): 10. Oktober (✓)
 ### 16. [Kino Babylon](https://babylonberlin.eu/) in Berlin: 16. Oktober (✓)
-### 17. [John-Lennon-Gymnasium](https://www.jlgym-berlin.de/jlg/) in Berlin: 4. November
-### 18. [KI und wir*](https://ki-convention.com), Festung Mark in Magdeburg: 23. November
+### 17. [John-Lennon-Gymnasium](https://www.jlgym-berlin.de/jlg/) in Berlin: 4. November ([✓](https://turing-bus.de/blog/2019/11/john-lennon-gymnasium/))
+### 18. [KI und wir*](https://ki-convention.com), Festung Mark in Magdeburg: 23. November (✓)
 <br>
 
 Unsere Tour-Karte 2019:
