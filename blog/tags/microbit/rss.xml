@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microbit on Turing-Bus</title>
+    <link>https://turing-bus.de/blog/tags/microbit/</link>
+    <description>Recent content in Microbit on Turing-Bus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://turing-bus.de/blog/tags/microbit/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mit Constanze Kurz (Chaos Computer Club, Netzpolitik) in Beetzendorf</title>
+      <link>https://turing-bus.de/blog/2018/06/arbeitsfrei-mit-constanze-kurz-in-beetzendorf/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://turing-bus.de/blog/2018/06/arbeitsfrei-mit-constanze-kurz-in-beetzendorf/</guid>
+      <description>Beetzendorf liegt in einem der am dünnsten besiedelten Landstriche Deutschlands. Umso erfreuter waren wir, dass uns auf dieser Station recht viele Gäste und Unterstützer*innen beehrten. Neben unserem schon fast obligatorischen Flugblatt-Workshop war für die Schülerinnen und Schülern des Informatik-Grundkurses des Gymnasiums diesmal auch ein micro:bit-Workshop im Angebot. Diesen Workshop über den rundum als Lern-Rechner konzipierten Einplatinen-Computer der BBC führten die erfahrenen Informatik-Lehramtsausbilder Henry Herper und Volkmar Hinz der Otto-von-Guericke-Universität in Magdeburg durch.</description>
+    </item>
+    
+  </channel>
+</rss>

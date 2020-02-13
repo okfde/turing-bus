@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planetarium on Turing-Bus</title>
+    <link>https://turing-bus.de/blog/tags/planetarium/</link>
+    <description>Recent content in Planetarium on Turing-Bus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://turing-bus.de/blog/tags/planetarium/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Abschlussveranstaltung Turing-Bus: Hacken unterm Sternenhimmel</title>
+      <link>https://turing-bus.de/blog/2018/12/hacken-unterm-sternenhimmel/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://turing-bus.de/blog/2018/12/hacken-unterm-sternenhimmel/</guid>
+      <description>Zum Abschluss der diesjährigen Tour machte der Turing-Bus Station am Planetarium am Insulaner in Berlin. Mit dabei: die Gewinnerinnen und Gewinner des Ideenwettbewerbs &amp;ldquo;Turing-Bus goes Space&amp;rdquo; des Gymnasiums &amp;ldquo;Rudolph Stempel&amp;rdquo; aus Riesa.
+Der Turing-Bus war im Wissenschaftsjahr 2018 – Arbeitswelten der Zukunft an Schulen in ländlichen Gebieten unterawegs und hat mit 15-19-jährigen Schülerinnen und Schülern aus ganz Deutschland zahlreiche unterschiedliche Digitalworkshops veranstaltet. Mit dabei waren stets auch Projekte und Initiativen aus der jeweiligen Region, wie Fablabs, OK-Labs, GI-Regionalgruppen, mobile Schülerlabore oder das senseBox-Projekt.</description>
+    </item>
+    
+  </channel>
+</rss>

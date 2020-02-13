@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitales Flubgblatt on Turing-Bus</title>
+    <link>https://turing-bus.de/blog/tags/digitales-flubgblatt/</link>
+    <description>Recent content in Digitales Flubgblatt on Turing-Bus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://turing-bus.de/blog/tags/digitales-flubgblatt/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Die Moral der Maschinen und mehr in Tessin</title>
+      <link>https://turing-bus.de/blog/2018/06/moral-der-maschinen-tessin/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://turing-bus.de/blog/2018/06/moral-der-maschinen-tessin/</guid>
+      <description>Unsere Station an der Regionalen Schule Anne Frank im mecklenburgischen Tessin stand ganz im Zeichen des Themas des Wissenschaftsjahres „Arbeitswelten der Zukunft”. Mit zwei neunten Klassen und insgesamt 47 Teilnehmerinnen und Teilnehmern durften wir zwei parallele Workshops gestalten. Während der eine, unser digitales Flugblatt, praktische Bastelfertigkeit verlangte, ging es im anderen deutlich theoretischer zu. Wie werden Automatisierung, Digitalisierung und Vernetzung Berufsfelder verändern? Welche Berufe werden vielleicht sogar ganz verschwinden? Und wer übernimmt eigentlich die Verantwortung wenn ein autonomer Roboter einen Fehler macht?</description>
+    </item>
+    
+    <item>
+      <title>Geoinformatik auf Rügen</title>
+      <link>https://turing-bus.de/blog/2018/06/geoinformatik-auf-ruegen/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://turing-bus.de/blog/2018/06/geoinformatik-auf-ruegen/</guid>
+      <description>Am 3. Juni starteten wir mit unserem vollgepackten Turing-Bus gut gelaunt gen Norden in Richtung Rügen. Die Fahrt führte uns durch die Brandenburger Alleen ins grüne Mecklenburg-Vorpommern. Wir waren zu dritt im Auto, aber die Geoinformatiker der Universität Münster sollten am Abend noch zu uns stoßen, um einigen Schlern und Schülerinnen der Regelschule „Am Burgwall“ ihr Projekt senseBox vorzustellen.
+Foto: CC-0
+Bis spät in die Nacht hinein bereiteten wir noch unseren Workshop zum Digitalen Flugblatt vor, den wir während der Tour beständig weiter entwickelten – die Powerbanks für die portablen Pi’s mussten geladen, die Webseitenvorlage für das Flugblatt zurückgesetzt und letzte Schliffe an neuen Spielen und Filmkommentaren, die wir uns ausgedacht hatten, vorgenommen werden.</description>
+    </item>
+    
+    <item>
+      <title>Kommunikationsguerilla in Rangsdorf</title>
+      <link>https://turing-bus.de/blog/2018/06/kommunikationsguerilla-in-rangsdorf/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://turing-bus.de/blog/2018/06/kommunikationsguerilla-in-rangsdorf/</guid>
+      <description>Wie verknüpfe ich On- und Offline-Kommunikationsmaßnahmen auf kreative Weise und mache auf meine Belange aufmerksam? Und wie gestalte ich meine Botschaften ansprechend und überzeugend? Mit diesen Fragen gingen wir am 1. Juni 2018 an die Oberschule Rangsdorf. In einer kleinen Gruppe mit elf Schülerinnen und Schülern der 9. Klasse probierten wir ein neues Format mit drei aufeinander aufbauenden Modulen. Ausgangspunkt und Grund unseres Besuchs in Rangsdorf war eine Einladung zum Aktionstag „Faire Schule“ – ein Schulentwicklungsprogramm, das Jugendliche dazu motivieren möchte, sich in unterschiedlichen Themenbereichen für andere einzusetzen.</description>
+    </item>
+    
+  </channel>
+</rss>

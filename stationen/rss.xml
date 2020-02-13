@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turing-Bus</title>
+    <link rel="self" href="https://turing-bus.de/stationen/atom.xml"/>
+    <description>Stationen on Turing-Bus</description>
+    
+    
+    
+        <atom:link href="https://turing-bus.de/stationen/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://turing-bus.de/stationen/stationen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://turing-bus.de/stationen/stationen/</guid>
+      <description>1. Re:publica: 7. Mai (✓) 2. Verstehbahnhof in Fürstenberg: 16. Mai (✓) 3. machBar / freiLand / OK-Lab Potsdam: 23. Mai (✓) 4. Technikschule Clever Inside in Lübbenau: 28. Mai (✓) 5. youcoN in Binz: 30. Mai (✓) 6. Prignitzer Technologietag in Perleberg: 5. Juni (✓) 7. IdeenExpo in Hannover: 18. Juni (✓) 8. Basteln mit Bits im Pestalozzi-Fröbel-Haus in Berlin-Schöneberg: 24./25. Juli (✓) 9. Otto-Hahn-Gymnasium in Gifhorn (NDS): 3.</description>
+    </item>
+    
+  </channel>
+</rss>

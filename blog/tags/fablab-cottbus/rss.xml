@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fablab Cottbus on Turing-Bus</title>
+    <link>https://turing-bus.de/blog/tags/fablab-cottbus/</link>
+    <description>Recent content in Fablab Cottbus on Turing-Bus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://turing-bus.de/blog/tags/fablab-cottbus/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Girls&#39;Day mit dem Fablab Cottbus und “Mädchen in Aktion“</title>
+      <link>https://turing-bus.de/blog/2018/04/girlsday-mit-fablab-cottbus/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://turing-bus.de/blog/2018/04/girlsday-mit-fablab-cottbus/</guid>
+      <description>1950 veröffentlichte Alan Turing einen Aufsatz, in dem er Geschlecht und die Fähigkeit zu denken als imitierbare Eigenschaften beschrieb. Berühmt geworden sind diese Gedankenspiele als Imitation Game beziehungsweise Turing Test. Es war uns also im Sinne Turings am Girls’Day, dem bundesweiten Mädchen-Zukunftstag, ein wichtiges Anliegen, noch vor dem offiziellen Tourstart weiter an den üblichen Geschlechterklischees zu rütteln. Schließlich lassen sich Jungs als Nerds leicht imitieren und denkende Maschinen werden überschätzt.</description>
+    </item>
+    
+  </channel>
+</rss>

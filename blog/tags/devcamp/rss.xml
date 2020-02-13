@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devcamp on Turing-Bus</title>
+    <link>https://turing-bus.de/blog/tags/devcamp/</link>
+    <description>Recent content in Devcamp on Turing-Bus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://turing-bus.de/blog/tags/devcamp/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aller Anfang ist schwer. Das digitale Flugblatt in München</title>
+      <link>https://turing-bus.de/blog/2018/04/digitales-flubgblatt-in-muenchen/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://turing-bus.de/blog/2018/04/digitales-flubgblatt-in-muenchen/</guid>
+      <description>Aller Anfang ist schwer – vor allem, weil er viele Fragen aufwirft. Zum Beispiel, ob wir für alle Tour-Stationen des Turing-Busses genügend externe Dozentinnen und Dozenten finden würden, die mit uns die weißen Flecken der digitalen Deutschlandkarte bereisen. Um auf Nummer sicher zu gehen, entschieden wir uns dafür, auch selbst einen Workshop zu konzipieren. Ein Unterfangen, das in Anbetracht unseres Zeitbudgets retrospektiv irgendwo zwischen überambitioniert und wahnwitzig eingeordnet werden kann.</description>
+    </item>
+    
+  </channel>
+</rss>

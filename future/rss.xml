@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turing-Bus</title>
+    <link rel="self" href="https://turing-bus.de/future/atom.xml"/>
+    <description>Der Turing-Bus - Konzept für 2020 on Turing-Bus</description>
+    
+    
+    
+        <atom:link href="https://turing-bus.de/future/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Der Turing-Bus begann als ein mobiles Bildungsprojekt der Gesellschaft für Informatik und der Open Knowledge Foundation Deutschland.</title>
+      <link>https://turing-bus.de/future/turing-bis-dato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://turing-bus.de/future/turing-bis-dato/</guid>
+      <description>Das Projekt entstand im Wissenschaftsjahr 2018 unter dem Themenschwerpunkt &amp;lsquo;Arbeitswelten der Zukunft&amp;rsquo;. Auf 13 Stationen haben wir im ersten Jahr über 40 verschiedene Workshop-, Diskussions- und Mitmachformate angeboten, die von mehr als 450 Teilnehmer*innen im Alter von 15-19 Jahren wahrgenommen wurden.
+Dabei diskutierten diese die Effekte der Digitalisierung, schraubten an Mikrocontrollern, erstellten digitale Flugblätter und luden Vertreter*innen von Politik und Wirtschaft ein, mitzudiskutieren.
+Wir nutzten dabei offene Bildungsmaterialien und entwickelten diese weiter.</description>
+    </item>
+    
+    <item>
+      <title>Lokale Strukturen stärken</title>
+      <link>https://turing-bus.de/future/lokalestrukturen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://turing-bus.de/future/lokalestrukturen/</guid>
+      <description>Bei unseren Exkursionen in den ländlichen Raum, der Heimat für ungefähr die Hälfte der Einwohner Deutschlands ist, haben wir festgestellt, dass es an vielen Orten bereits lokale Einrichtungen gibt, die von extrem engagierten Experten unterschiedlicher Disziplinen der Digitalisierung betrieben werden. Das Problem: in den meisten Fällen werden diese ehrenamtlich getragen und sind deshalb in ihrer Kapazität begrenzt, was nicht bedeuten soll, dass sie nicht in vielen Fällen am absoluten Rand ihrer Kapazitäten arbeiten.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://turing-bus.de/future/idee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://turing-bus.de/future/idee/</guid>
+      <description>Annahmen 
+* Orte des kollaborativen Lernens sind die nachhaltigste Form außerschulischer Bildungsangebote. * Sie ermöglichen selbstbestimmtes Lernen durch offene Strukturen. * Sie können sinnvolle Ergänzungen zum Unterricht darstellen. * Sie leiden unter mangelnden Förderungen und Vernetzung. Beispiele * Verstehbahnhof Fürstenberg * Technikschule Lübbenau * Fablab Cottbus * Beispiel 3,4,5 
+Projektidee Orte des kollaborativen Lernens sind unterschiedlich groß und unterschiedlich gut ausgestattet. In den meisten Fällen sind jedoch Computer, Lötkolben, 3D-Drucker, Mikrocontroller (Arduino) und in manchen Fällen auch Laser/CNC-Fräsen vorhanden.</description>
+    </item>
+    
+  </channel>
+</rss>

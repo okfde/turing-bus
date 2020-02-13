@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaos Macht Schule on Turing-Bus</title>
+    <link>https://turing-bus.de/blog/tags/chaos-macht-schule/</link>
+    <description>Recent content in Chaos Macht Schule on Turing-Bus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://turing-bus.de/blog/tags/chaos-macht-schule/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mit Chaos macht Schule &amp; Code for Germany in Riesa</title>
+      <link>https://turing-bus.de/blog/2018/06/mit-chaos-macht-schule-und-code-for-germany-in-riesa/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://turing-bus.de/blog/2018/06/mit-chaos-macht-schule-und-code-for-germany-in-riesa/</guid>
+      <description>Im Rahmen der Demokratietage besuchten wir die Nudelstadt Riesa. Besonders gefreut hat uns die Anwesenheit von Robert Wartenberg und Benjamin Partzsch (Chaos macht Schule, OK-Lab Dresden) sowie die Tatsache, dass wir eine der beiden vergleichsweise kleinen Gruppen mit vier Experten begleiten konnten. Dadurch konnten gemeinsam mit den Schülerinnen und Schülern besonders kreative und spannende Ideen umgesetzt werden.
+Der Tag in Riesa begann mit einem Impulsvortrag von Robert, in der er über die Entstehungsgeschichte, die Arbeit und die Inhalte des Chaos Computer Clubs, der Erfa-Kreise, Chaos macht Schule sowie seiner Arbeit im OK-Lab Dresden berichtete.</description>
+    </item>
+    
+  </channel>
+</rss>

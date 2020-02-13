@@ -1,0 +1,75 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="https://turing-bus.de/module/atom.xml"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>Turing-Bus</name>
+    <email>info@turing-bus.de</email>
+    <uri>https://turing-bus.de</uri>
+  </author>
+  <id>https://turing-bus.de</id>
+  
+  <entry>
+    <title>Einführung in das Thema KI und Algorithmen</title>
+    <link rel="alternate" href="https://turing-bus.de/module/intro/"/>
+    <id>https://turing-bus.de/module/intro/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Um die Teilnehmenden (TN) in den Begriff des Algorithmus einzufühen haben wir auf unserer Tour mit zwei Einführungen gearbeitet.
+Menschlichen Roboter programmieren
+Das auf dem Foto dargestellte Modul bringt den Algorithmusbegriff nahe, indem ein menschlicher &amp;lsquo;Roboter&amp;rsquo; vom Publikum &amp;lsquo;programmiert&amp;rsquo; werden soll, um Wasser aus einer Flasche in ein Glas zu gießen. Dazu werden Befehle (hoch, links, runter, Hand drehen usw.) bereitgestellt. Die TN sollen dadurch spielhaft verstehen, dass Algorithmen exakte Befehle in einer definierten Reihenfolge ausführen.</summary>
+  </entry>
+  
+  <entry>
+    <title>Workshop 1. Wie ensteht ein Datensatz? (Arduino)</title>
+    <link rel="alternate" href="https://turing-bus.de/module/workshop1/"/>
+    <id>https://turing-bus.de/module/workshop1/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Autor: Maximilian Voigt Verwendete Technik: Arduino Mikrocontroller, Laptops Betreuungsschlüssel: 1:12 Dauer: 2-3h
+  Die Diskussion um Künstliche Intelligenz dreht sich oft vorrangig um Anwendungsmöglichkeiten und Zukunftspotentiale. Seltener wird über ihren Treibstoff gesprochen: Daten. Wie ein Datensatz entsteht, wie man mithilfe von Sensoren selbst Daten erstellen kann und welche schwerwiegenden Folgen ein Datensatz von niedriger Qualität haben kann, wird hier anhand von Hands-On-Formaten nachvollziehbar. In diesem Modul erstellen wir Datensätze mithilfe von Mikrocontrollern (Arduinos).</summary>
+  </entry>
+  
+  <entry>
+    <title>Workshop 2. Einen Chatbot selbst programmieren</title>
+    <link rel="alternate" href="https://turing-bus.de/module/workshop2/"/>
+    <id>https://turing-bus.de/module/workshop2/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Autorinnen: Andrea Knaut, Kathinka Richter Verwendete Technik: Chatbot Software (ELIZA, Scratch) Laptops Betreuungsschlüssel: 1:10 Dauer: 2-3h
+  „Hallo, ich bin dein virtueller Assistent. Wie kann ich dir behilflich sein?&amp;rdquo;
+Wer ist ihnen noch nicht begegnet, den freundlichen Chatbots auf Bank-Webseiten, in Messengern oder als Teil der Sprachassistenzsysteme von Alexa bis Siri?
+Das Imitationsspiel Turings, in dem ein Chatbot eine Frau nachspielt, gilt als der historische Intelligenztest für Künstliche Intelligenz.</summary>
+  </entry>
+  
+  <entry>
+    <title>Workshop 3. Gewissensbits – Ethische Fallbeispiele der Künstlichen Intelligenz</title>
+    <link rel="alternate" href="https://turing-bus.de/module/workshop3/"/>
+    <id>https://turing-bus.de/module/workshop3/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Autor: Gewissensbits (GI) Verwendete Technik: Flipchart, Diskussion Betreuungsschlüssel: 1:20 Dauer: 2-3h
+  Die vielen bunten Apps, die uns im Alltag behilflich sind, werden entworfen, programmiert und gewartet von Menschen, die sehr viel Verantwortung tragen. Haben sie Gewissensbits, wenn schon wieder irgendwo Daten leaken, Accounts gehackt wurden und das Cybermobbing floriert oder eine Lernerfolgsprognose-Software diskriminierende Schlüsse zieht? Versetzt euch in typische knifflige ethische Probleme aus dem Leben der Entwicklerinnen, Systemadministratoren, Designer, Data Scientists und Projektmanagerinnen, die die Smartphone-Welt am Laufen halten.</summary>
+  </entry>
+  
+  <entry>
+    <title>Workshop 4. Das digitale Flugblatt (Raspberry Pi)</title>
+    <link rel="alternate" href="https://turing-bus.de/module/workshop4/"/>
+    <id>https://turing-bus.de/module/workshop4/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Autorinnen: Andrea Knaut, Kathinka Richter Verwendete Technik: Flipchart, Diskussion Betreuungsschlüssel: 1:20 Dauer: 2-3h
+  Das digitale Flugblatt* umfasst Anleitungen, Ablaufbeschreibung und Arbeitsblätter zur Vorbereitung und Durchführung eines Hands-On-Workshops. Hier könnt ihr lernen, wie ihr in 90 bis 180 Minuten einen Raspberry Pi Zero so konfiguriert, dass er als WLAN-Hotspot eine von euch gestaltete Webseite in Flugblattform in die nähere Umgebung sendet. Alle, die sich mit eurem Access Point verbinden, sehen sofort den Inhalt dieses digitalen Flugblatts.</summary>
+  </entry>
+  
+  <entry>
+    <title>Workshop 5. Robotergericht</title>
+    <link rel="alternate" href="https://turing-bus.de/module/workshop5/"/>
+    <id>https://turing-bus.de/module/workshop5/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Autorin: Juliane Krüger Verwendete Technik: Bastelmaterialien, Flipchart, Diskussion Betreuungsschlüssel: 1:10 Dauer: 2-3h
+  in Roboter steht vor Gericht. Er soll einem Menschen den Job weggenommen haben und will sich nun rechtfertigen. Denn schließlich wurde ja lediglich ein Arbeitsablauf automatisiert, um schneller, sicherer und zuverlässiger zu funktionieren. Andererseits klagt die Arbeitnehmervertretung, dass eine weitere Person nun arbeitslos ist. In den Rollen von Anklage, Verteidigung und Gericht diskutieren wir über die zunehmende Automatisierung der Gesellschaft und wie wir mit ihr umgehen sollten.</summary>
+  </entry>
+  
+</feed>
