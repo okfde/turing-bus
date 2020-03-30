@@ -47,6 +47,11 @@
   </url>
   
   <url>
+    <loc>https://turing-bus.de/blog/2020/01/turing-bus-oer-als-pdf-download/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://turing-bus.de/blog/2019/11/john-lennon-gymnasium/</loc>
     <lastmod>2019-11-04T00:00:00+00:00</lastmod>
   </url>
@@ -249,6 +254,12 @@
   </url>
   
   <url>
+    <loc>https://turing-bus.de/blog/tags/oer/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://turing-bus.de/blog/tags/okf-de/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -298,12 +309,12 @@
   
   <url>
     <loc>https://turing-bus.de/</loc>
-    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://turing-bus.de/blog/tags/turingbus/</loc>
-    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -319,7 +330,7 @@
   
   <url>
     <loc>https://turing-bus.de/blog/</loc>
-    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

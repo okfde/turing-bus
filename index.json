@@ -9,7 +9,7 @@
        "section": "module",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "content": ["Alle","unten","stehenden","OER","gibt","es","auch","unter","diesem","Link","als","PDF","Download."]
+       "content": ["Alle","Beschreibungen,","Arbeitsblätter","und","Materialien","der","im","Rahmen","der","Turing-Challenge","entstandenen","Workshops","findet","Ihr","als","PDF","zusammengefasst","in","unserer","“Sammlung","offener","Lehrmaterialien”"]
      }
  
  
@@ -170,6 +170,22 @@
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
        "content": ["Autorin:","Juliane","Krüger","Verwendete","Technik:","Bastelmaterialien,","Flipchart,","Diskussion","Betreuungsschlüssel:","1:10","Dauer:","2-3h","in","Roboter","steht","vor","Gericht.","Er","soll","einem","Menschen","den","Job","weggenommen","haben","und","will","sich","nun","rechtfertigen.","Denn","schließlich","wurde","ja","lediglich","ein","Arbeitsablauf","automatisiert,","um","schneller,","sicherer","und","zuverlässiger","zu","funktionieren.","Andererseits","klagt","die","Arbeitnehmervertretung,","dass","eine","weitere","Person","nun","arbeitslos","ist.","In","den","Rollen","von","Anklage,","Verteidigung","und","Gericht","diskutieren","wir","über","die","zunehmende","Automatisierung","der","Gesellschaft","und","wie","wir","mit","ihr","umgehen","sollten."]
+     }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ,
+     {
+       "url": "https://turing-bus.de/blog/2020/01/turing-bus-oer-als-pdf-download/",
+       "title": "Ergebnisse Turing-Challenge / Turing-Bus OER",
+       "section": "blog",
+       "date": "2020-01-01 00:00:00 +0000 UTC",
+       
+       "content": ["Alle","Beschreibungen,","Arbeitsblätter","und","Materialien","der","im","Rahmen","der","Turing-Challenge","entstandenen","Workshops","findet","Ihr","als","PDF","zusammengefasst","in","unserer","“Sammlung","offener","Lehrmaterialien”.","→","Download"]
      }
  
  
@@ -622,6 +638,8 @@
  
  
  
+ 
+ 
    ,
      {
        "url": "https://turing-bus.de/stationen/",
@@ -669,7 +687,7 @@
        "url": "https://turing-bus.de/blog/",
        "title": "[B]logbuch",
        "section": "blog",
-       "date": "2019-11-04 00:00:00 +0000 UTC",
+       "date": "2020-01-01 00:00:00 +0000 UTC",
        
        "content": []
      }

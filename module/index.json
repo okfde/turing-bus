@@ -3,6 +3,20 @@
  
    
      {
+       "url": "https://turing-bus.de/blog/2020/01/turing-bus-oer-als-pdf-download/",
+       "title": "Ergebnisse Turing-Challenge / Turing-Bus OER",
+       "section": "blog",
+       "date": "2020-01-01 00:00:00 +0000 UTC",
+       "tags": ["TuringBus", "OER"],
+       "content": ["Alle","Beschreibungen,","Arbeitsblätter","und","Materialien","der","im","Rahmen","der","Turing-Challenge","entstandenen","Workshops","findet","Ihr","als","PDF","zusammengefasst","in","unserer","“Sammlung","offener","Lehrmaterialien”.","→","Download"]
+     }
+ 
+ 
+ 
+ 
+ 
+   ,
+     {
        "url": "https://turing-bus.de/blog/2019/11/john-lennon-gymnasium/",
        "title": "Digitale Flugblätter am John-Lennon-Gymnasium",
        "section": "blog",
@@ -328,7 +342,7 @@
        "url": "https://turing-bus.de/blog/",
        "title": "[B]logbuch",
        "section": "blog",
-       "date": "2019-11-04 00:00:00 +0000 UTC",
+       "date": "2020-01-01 00:00:00 +0000 UTC",
        "tags": [],
        "content": []
      }

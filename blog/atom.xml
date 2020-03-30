@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://turing-bus.de/blog/atom.xml"/>
-  <updated>2019-11-04T00:00:00+0000</updated>
+  <updated>2020-01-01T00:00:00+0000</updated>
   <author>
     <name>Turing-Bus</name>
     <email>info@turing-bus.de</email>
     <uri>https://turing-bus.de</uri>
   </author>
   <id>https://turing-bus.de</id>
+  
+  <entry>
+    <title>Ergebnisse Turing-Challenge / Turing-Bus OER</title>
+    <link rel="alternate" href="https://turing-bus.de/blog/2020/01/turing-bus-oer-als-pdf-download/"/>
+    <id>https://turing-bus.de/blog/2020/01/turing-bus-oer-als-pdf-download/</id>
+    <published>2020-01-01T00:00:00+0000</published>
+    <updated>2020-01-01T00:00:00+0000</updated>
+    <summary> Alle Beschreibungen, Arbeitsblätter und Materialien der im Rahmen der Turing-Challenge entstandenen Workshops findet Ihr als PDF zusammengefasst in unserer “Sammlung offener Lehrmaterialien”.
+→ Download </summary>
+  </entry>
   
   <entry>
     <title>Digitale Flugblätter am John-Lennon-Gymnasium</title>
@@ -152,16 +162,6 @@ Wir durften in den zwei Informatikkursen der 9. Klasse erleben, wie einige der S
     <updated>2018-06-26T00:00:00+0000</updated>
     <summary>Im Rahmen der Demokratietage besuchten wir die Nudelstadt Riesa. Besonders gefreut hat uns die Anwesenheit von Robert Wartenberg und Benjamin Partzsch (Chaos macht Schule, OK-Lab Dresden) sowie die Tatsache, dass wir eine der beiden vergleichsweise kleinen Gruppen mit vier Experten begleiten konnten. Dadurch konnten gemeinsam mit den Schülerinnen und Schülern besonders kreative und spannende Ideen umgesetzt werden.
 Der Tag in Riesa begann mit einem Impulsvortrag von Robert, in der er über die Entstehungsgeschichte, die Arbeit und die Inhalte des Chaos Computer Clubs, der Erfa-Kreise, Chaos macht Schule sowie seiner Arbeit im OK-Lab Dresden berichtete.</summary>
-  </entry>
-  
-  <entry>
-    <title>Fünf Workshops rund um Informatik und Digitalisierung an der Sekundarschule Landsberg</title>
-    <link rel="alternate" href="https://turing-bus.de/blog/2018/06/fuenf-workshops-rund-um-informatik-und-digitalisierung-in-landsberg/"/>
-    <id>https://turing-bus.de/blog/2018/06/fuenf-workshops-rund-um-informatik-und-digitalisierung-in-landsberg/</id>
-    <published>2018-06-25T00:00:00+0000</published>
-    <updated>2018-06-25T00:00:00+0000</updated>
-    <summary>Foto: CC-0
-In Landsberg im Saalekreis im Süden Sachsen-Anhalts begann unser Turing-Bus am 25. Juni 2018 voll besetzt eine neue Woche. Mehr als 60 Schülerinnen und Schüler der drei neunten Klassen der Schule warteten auf uns. Sie hatten gerade ihr Berufspraktikum hinter sich. So rechneten wir damit, dass wir mit unserem Dauerbrennerthema »Arbeitswelten der Zukunft« also gut an ihre noch ganz frischen Erfahrungen in der aktuellen Arbeitswelt anknüpfen könnten.</summary>
   </entry>
   
 </feed>
