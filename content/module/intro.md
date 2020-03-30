@@ -1,6 +1,6 @@
 ---
 title: Einführung in das Thema KI und Algorithmen
-weight: 1
+weight: 2
 
 img:
   -
