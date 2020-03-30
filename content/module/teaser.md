@@ -12,4 +12,4 @@ arrange: img_right
 
 ---
 
-### Alle unten stehenden OER gibt es auch unter [diesem Link](/files/documents/Turing-Bus_OER.pdf) als PDF Download. 
+### Alle Beschreibungen, Arbeitsblätter und Materialien der im Rahmen der Turing-Challenge entstandenen Workshops findet Ihr als PDF zusammengefasst in unserer [“Sammlung offener Lehrmaterialien”](/files/documents/Turing-Bus_OER.pdf)
